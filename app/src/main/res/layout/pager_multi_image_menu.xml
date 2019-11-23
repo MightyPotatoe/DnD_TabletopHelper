@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
+        android:background="@android:color/holo_blue_dark"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        />
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/tabLayout"
+        android:layout_marginBottom="100sp"
+        android:id="@+id/pager"
+        />
+
+    <ImageButton
+        android:contentDescription="@string/chooseButton_ContentDescription"
+        android:id="@+id/pager_chooseButton"
+        android:layout_width="150sp"
+        android:layout_height="70sp"
+        android:layout_marginBottom="16sp"
+        android:layout_marginEnd="40sp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/transparent"
+
+        android:src="@drawable/icon_choose"
+        android:scaleType="fitXY"
+        />
+
+    <ImageButton
+        android:contentDescription="@string/infoButton_ContentDescription"
+        android:id="@+id/pager_infoButton"
+        android:layout_width="130sp"
+        android:layout_height="70sp"
+        android:layout_marginBottom="20sp"
+        android:layout_marginStart="40sp"
+
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+
+        android:src="@drawable/icon_info"
+        android:scaleType="fitXY"
+        />
+
+</RelativeLayout>

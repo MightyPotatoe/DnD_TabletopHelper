@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="classOverviewTitles">
+        <item>Barbarian</item>
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Druid</item>
+        <item>Fighter</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Ranger</item>
+        <item>Rogue</item>
+        <item>Sorcerer</item>
+        <item>Warlock</item>
+        <item>Wizard</item>
+    </string-array>
+
+    <string-array name="classOverviewSection1">
+        <item> A tall human tribesman strides through a blizzard, draped in fur and hefting his axe.
+            He laughs as he charges toward the frost giant who dared poach his people’s elk herd.
+            \n\n
+            For some, their rage springs from a communion with fierce animal spirits. Others
+            draw from a roiling reservoir of anger at a world full of pain. For every barbarian,
+            rage is a power that fuels not just a battle frenzy but also uncanny reflexes,
+            resilience, and feats of strength.
+        </item>
+
+        <item>
+            Humming as she traces her fingers over an ancient
+            monument in a long-forgotten ruin, a half-elf in rugged
+            leathers finds knowledge springing into her mind,
+            conjured forth by the magic of her song — knowledge
+            of the people who constructed the monument and the
+            mythic saga it depicts.
+            \n\n
+            A stern human warrior bangs his sword rhythmically
+            against his scale mail, setting the tempo for his war chant
+            and exhorting his companions to bravery and heroism.
+            The magic of his song fortifies and emboldens them.
+            \n\n
+            Laughing as she tunes her cittern, a gnome weaves
+            her subtle magic over the assembled nobles, ensuring
+            that her companions’ words will be well received.
+            \n\n
+            Whether scholar, skald, or scoundrel, a bard weaves
+            magic through words and music to inspire allies,
+            demoralize foes, manipulate minds, create
+            illusions, and even heal wounds.
+        </item>
+
+        <item>
+            Arms and eyes upraised toward the sun and a prayer
+            on his lips, an elf begins to glow with an inner light that
+            spills out to heal his battle-worn companions.
+            \n\n
+            Chanting a song of glory, a dwarf swings his axe
+            in wide swaths to cut through the ranks of orcs
+            arrayed against him, shouting praise to the gods with
+            every foe\'s fall.
+            \n\n
+            Calling down a curse upon the forces of undeath, a
+            human lifts her holy symbol as light pours from it to
+            drive back the zombies crowding in on her companions.
+            Clerics are intermediaries between the mortal world
+            and the distant planes of the gods. As varied as the gods
+            they serve, clerics strive to embody the handiwork of
+            their deities. No ordinary priest, a cleric is imbued with
+            divine magic.
+        </item>
+
+        <item> Holding high a gnarled staff wreathed with holly, an elf
+            summons the fury of the storm and calls down explosive
+            bolts of lightning to smite the torch-carrying orcs who
+            threaten her forest.
+
+            \n\nCrouching out of sight on a high tree branch in the
+            form of a leopard, a human peers out of the jungle at the
+            strange construction of a temple of Evil Elemental Air,
+            keeping a close eye on the cultists\' activities.
+
+            \n\nSwinging a blade formed of pure fire, a half-elf
+            charges into a mass of skeletal soldiers, sundering
+            the unnatural magic that gives the foul creatures the
+            mocking semblance of life.
+
+            \n\nWhether calling on the elemental forces of nature or
+            emulating the creatures of the animal world, druids are
+            an embodiment of nature\'s resilience, cunning, and fury.
+            They claim no mastery over nature. Instead, they see
+            them selves as extensions of nature\'s indomitable will.
+        </item>
+
+        <item>
+            A human in clanging plate armor holds her shield
+            before her as she runs toward the massed goblins. An
+            elf behind her, clad in studded leather armor, peppers
+            the goblins with arrows loosed from his exquisite
+            bow. The half-orc nearby shouts orders, helping
+            the two combatants coordinate their assault to the
+            best advantage.
+
+            \n\nA dwarf in chain mail interposes his shield between
+            the ogre\'s club and his companion, knocking the deadly
+            blow aside. His companion, a half-elf in scale armor,
+            swings two scimitars in a blinding whirl as she circles
+            the ogre, looking for a blind spot in its defenses.
+
+            \n\nA gladiator fights for sport in an arena, a master with
+            his trident and net, skilled at toppling foes and moving
+            them around for the crowd\'s delight—and his own
+            tactical advantage. His opponent\'s sword flares with
+            blue light an instant before she sends lightning flashing
+            forth to smite him.
+
+            \n\nAll of these heroes are fighters, perhaps the most
+            diverse class of characters in the worlds of Dungeons and
+            Dragons. Questing knights, conquering overlords, royal
+            champions, elite foot soldiers, hardened mercenaries,
+            and bandit kings — as fighters, they all share an
+            unparalleled mastery with weapons and armor, and a
+            thorough knowledge of the skills of combat. And they
+            are well acquainted with death, both meting it out and
+            staring it defiantly in the face.
+        </item>
+
+        <item>
+            Her fists a blur as they deflect an incoming hail of arrows,
+            a half-elf springs over a barricade and throws herself
+            into the massed ranks of hobgoblins on the other side.
+            She whirls among them, knocking their blows aside and
+            sending them reeling, until at last she stands alone.
+
+            \n\nTaking a deep breath, a human covered in tattoos
+            settles into a battle stance. As the first charging orcs
+            reach him, he exhales and a blast of fire roars from his
+            mouth, engulfing his foes.
+            \n\nMoving with the silence of the night, a black-clad
+            halfling steps into a shadow beneath an arch and
+            emerges from another inky shadow on a balcony a
+            stone\'s throw away. She slides her blade free of its cloth-
+            wrapped scabbard and peers through the open window
+            at the tyrant prince, so vulnerable in the grip of sleep.
+
+            \n\nWhatever their discipline, monks are united in their
+            ability to magically harness the energy that flows in
+            their bodies. Whether channeled as a striking display
+            of combat prowess or a subtler focus of defensive ability
+            and speed, this energy infuses all that a monk does.
+        </item>
+
+        <item>
+            Clad in plate armor that gleams in the sunlight despite
+            the dust and grime of long travel, a human lays down
+            her sword and shield and places her hands on a mortally
+            wounded man. Divine radiance shines from her hands,
+            the man’s wounds knit closed, and his eyes open wide
+            with amazement.
+
+            \n\nA dwarf crouches behind an outcrop, his black cloak
+            making him nearly invisible in the night, and watches
+            an orc warband celebrating its recent victory. Silently,
+            he stalks into their midst and whispers an oath, and two
+            orcs are dead before they even realize he is there.
+            Silver hair shining in a shaft of light that seems to
+            illuminate only him , an elf laughs with exultation. His
+            spear flashes like his eyes as he jabs again and again
+            at a twisted giant, until at last his light overcomes its
+            hideous darkness.
+
+            \n\nWhatever their origin and their mission, paladins are
+            united by their oaths to stand against the forces of evil.
+            Whether sworn before a god’s altar and the witness of
+            a priest, in a sa cred glade before nature spirits and fey
+            beings, or in a moment of desperation and grief with the
+            dead as the only witness, a paladin’s oath is a powerful
+            bond. It is a source of power that turns a devout warrior
+            into a blessed champion.
+        </item>
+
+        <item>
+            Rough and wild looking,
+            a human stalks alone
+            through the shadows of
+            trees, hunting the orcs he
+            knows are planning a raid
+            on a nearby farm. Clutching
+            a short sword in each hand,
+            he becomes a whirlwind of
+            steel, cutting down one enemy
+            after another.
+
+            \n\nAfter tumbling away from a cone of
+            freezing air, an elf finds her feet and draws
+            back her bow to loose an arrow at the white
+            dragon. Shrugging off the wave of fear that emanates
+            from the dragon like the cold of its breath, she sends
+            one arrow after another to find the gaps between the
+            dragon’s thick scales.
+
+            \n\nHolding his hand high, a half-elf whistles to the hawk
+            that circles high above him, calling the bird back to his
+            side. Whispering instructions in Elvish, he points to
+            the owlbear he\'s been tracking and sends the hawk to
+            distract the creature while he readies his bow.
+
+            \n\nFar from the bustle of cities and towns, past the
+            hedges that shelter the most distant farms from the
+            terrors of the wild, amid the dense-packed trees of
+            trackless forests and across wide and empty plains,
+            rangers keep their unending watch.
+        </item>
+
+        <item>
+            Signaling for her companions to wait, a halfling creeps
+            forward through the dungeon hall. She presses an ear
+            to the door, then pulls out a set of tools and picks the
+            lock in the blink of an eye. Then she disappears into
+            the shadows as her fighter friend moves forward to kick
+            the door open.
+
+            \n\nA human lurks in the shadows of an alley while his
+            accomplice prepares for her part in the ambush. When
+            their target — a notorious slaver — passes the alleyway,
+            the accomplice cries out, the slaver comes to investigate,
+            and the assassin’s blade cuts his throat before he can
+            make a sound.
+
+            \n\nSuppressing a giggle, a gnome waggles her fingers
+            and magically lifts the key ring from the guard’s belt.
+            In a moment, the keys are in her hand, the cell door is
+            open, and she and her companions are free to make
+            their escape.
+
+            \n\nRogues rely on skill, stealth, and their foes’
+            vulnerabilities to get the upper hand in any situation.
+            They have a knack for finding the solution to just about
+            any problem , demonstrating a resourcefulness and
+            versatility that is the cornerstone of any successful
+            adventuring party.
+        </item>
+
+        <item>
+            Golden eyes flashing, a human
+            stretches out her hand and unleashes
+            the dragonfire that burns in her veins.
+            As an in ferno rages around her foes,
+            leathery wings spread from her back and
+            she takes to the air.
+
+            \n\nLong hair whipped by a conjured wind,
+            a half-elf spreads his arms wide and throws
+            his head back. Lifting him momentarily off
+            the ground, a wave of magic surges up in him,
+            through him , and out from him in a mighty blast
+            of lightning.
+
+            \n\nCrouching behind a stalagmite, a halfling points a
+            finger at a charging troglodyte. A blast of fire springs
+            from her finger to strike the creature. She ducks back
+            behind the rock formation with a grin, unaware that her
+            wild magic has turned her skin bright blue.
+
+            \n\nSorcerers carry a magical birthright conferred
+            upon them by an exotic bloodline, some other worldly
+            influence, or exposure to unknown cosmic forces.
+            One can’t study sorcery as one learns a language, any
+            more than one can learn to live a legendary life. No one
+            chooses sorcery; the power chooses the sorcerer.
+        </item>
+
+        <item>
+            With a pseudodragon curled on his shoulder, a young
+            elf in golden robes smiles warmly, weaving a magical
+            charm into his honeyed words and bending the palace
+            sentinel to his will.
+
+            \n\nAs flames spring to life in her hands, a wizened
+            human whispers the secret name of her demonic patron,
+            infusing her spell with fiendish magic.
+
+            \n\nShifting his gaze between a battered tome and the
+            od dalignment of the stars overhead, a wild - eyed tiefling
+            chants the mystic ritual that will open a doorway to a
+            distant world.
+
+            \n\nWarlocks are seekers of the knowledge that lies
+            hidden in the fabric of the multiverse. Through pacts
+            made with mysterious beings of supernatural power,
+            warlocks unlock magical effects both subtle and
+            spectacular. Drawing on the ancient know ledge of
+            beings such as fey nobles, demons, devils, hags, and
+            alien entities of the Far Realm, warlock s piece together
+            arcane secrets to bolster their own power.
+        </item>
+
+        <item>
+             Clad in the silver robes that denote her station, an
+            elf closes her eyes to shut out the distractions of the
+            battlefield and begins her quiet chant. Fingers weaving
+            in front of her, she completes her spell and launches a
+            tiny bead of fire toward the enemy ranks, where it erupts
+            into a conflagration that engulfs the soldiers.
+
+            \n\nChecking and rechecking his work, a human scribes
+            an intricate magic circle in chalk on the bare stone
+            floor, then sprinkles powdered iron along every line and
+            graceful curve. When the circle is complete, he drones a
+            long incantation. A hole opens in space inside the circle,
+            bringing a whiff of brimstone from the otherworldly
+            plane beyond.
+
+            \n\nCrouching on the floor in a dungeon intersection, a
+            gnome tosses a handful of sm all bones in scribed with
+            mystic symbols, muttering a few words of power over
+            them. Closing his eyes to see the visions more clearly,
+            he nods slowly, then opens his eyes and points down the
+            passage to his left.
+
+            \n\nWizards are supreme magic-users, defined and united
+            as a class by the spells they cast. Drawing on the subtle
+            weave of magic that permeates the cosmos, wizards cast
+            spells of explosive fire, arcing lightning, subtle deception,
+            and brute-force mind control. Their magic conjures
+            monsters from other planes of existence, glimpses the
+            future, or turns slain foes into zombies. Their mightiest
+            spells change one substance into another, call meteors
+            down from the sky, or open portals to other worlds.
+        </item>
+    </string-array>
+
+    <string-array name="classOverviewSection2">
+        <item>
+            When creating a barbarian character, think about where your character com es from and
+            his or her place in the world. Talk with your DM about an appropriate origin for your
+            barbarian. Did you com e from a distant land, making you a stranger in the area of the
+            campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are
+            common? What led you to take up the adventuring life? Were you lured to settled lands
+            by the promise of riches? Did you join forces with soldiers of those lands to face a
+            shared threat? Did monsters or an invading horde drive you out of your homeland, making
+            you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to
+            “civilized” lands and only now able to win your freedom. Or you might have been cast out
+            from your people because of a crime you committed, a taboo you violated, or a coup that
+            removed you from a position of authority.
+        </item>
+
+        <item>
+            Bards thrive on stories, whether those stories are true
+            or not. Your character’s background and motivations
+            are not as important as the stories that he or she tells
+            about them. Perhaps you had a secure and mundane
+            childhood. There’s no good story to be told about that,
+            so you might paint yourself as an orphan raised by a hag
+            in a dismal swamp. Or your childhood might be worthy
+            of a story. Some bards acquire their magical music
+            through extraordinary means, including the inspiration
+            of fey or other supernatural creatures.
+            \n\n
+            Did you serve an apprenticeship, studying under a
+            master, following the more experienced bard until you
+            were ready to strike out on your own? Or did you attend
+            a college where you studied bardic lore and practiced
+            your musical magic? Perhaps you were a young runaway
+            or orphan, befriended by a wandering bard who became
+            your mentor. Or you might have been a spoiled noble
+            child tutored by a master. Perhaps you stumbled into the
+            clutches of a hag, making a bargain for a musical gift in
+            addition to your life and freedom, but at what cost?
+        </item>
+
+
+        <item>
+            As you create a cleric, the most important question to
+            consider is which deity to serve and what principles you
+            want your character to embody. Check with
+            your DM to learn which deities are in your campaign.
+            Once you’ve chosen a deity, consider your cleric\'s
+            relationship to that god. Did you enter this service
+            willingly? Or did the god choose you, impelling you into
+            service with no regard for your wishes? How do the
+            temple priests of your faith regard you: as a champion
+            or a troublemaker? What are your ultimate goals? Does
+            your deity have a special task in mind for you? Or are
+            you striving to prove yourself worthy of a great quest?
+        </item>
+
+
+        <item>
+            When making a druid, consider why your character has
+            such a close bond with nature. Perhaps your character
+            lives in a society where the Old Faith still thrives, or was
+            raised by a druid after being abandoned in the depths
+            of a forest. Perhaps your character had a dramatic
+            encounter with the spirits of nature, coming face to
+            face with a giant eagle or dire wolf and surviving the
+            experience. Maybe your character was born during an
+            epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid
+            was part of your character\'s destiny.
+
+            \n\nHave you always been an adventurer
+            as part o f your druidic calling, or did you
+            first spend time as a caretaker of a sacred
+            grove or spring? Perhaps your homeland was
+            befouled by evil, and you took up an adventuring life in
+            hopes of finding a new home or purpose.</item>
+
+
+        <item>
+            As you build your fighter, think about two related
+            elements of your characters background: Where did
+            you get your combat training, and what set you apart
+            from the mundane warriors around you? Were you
+            particularly ruthless? Did you get extra help from a
+            mentor, perhaps because of your exceptional dedication?
+            What drove you to this training in the first place? A
+            threat to your homeland, a thirst for revenge, or a need
+            to prove yourself might all have been factors.
+
+            \n\nYou might have enjoyed formal training in an oble\'s
+            army or in a local militia. Perhaps you trained in a war
+            academy, learning strategy, tactics, and military history.
+            Or you might be self-taught—unpolished but well tested.
+            Did you take up the sword as a way to escape the limits
+            of life on a farm, or are you following a proud family
+            tradition? Where did you acquire your weapons and
+            armor? They might have been military issue or family
+            heirlooms, or perhaps you scrimped and saved for years
+            to buy them. Your armaments are now among your
+            most important possessions—the only things that stand
+            between you and death\'s embrace.
+        </item>
+
+
+        <item>
+            As you make your monk character, think about your
+            connection to the monastery where you learned your
+            skills and spent your formative years. Were you an
+            orphan or a child left on the monastery\'s threshold? Did
+            your parents promise you to the monastery in gratitude
+            for a service perform ed by the monks? Did you enter
+            this secluded life to hide from a crime you committed?
+            Or did you choose the monastic life for yourself?
+
+            \n\nConsider why you left. Did the head of your monastery
+            choose you for a particularly important mission beyond
+            the cloister? Perhaps you were cast out because of
+            some violation of the community\'s rules. Did you dread
+            leaving, or were you happy to go? Is there something
+            you hope to accomplish outside the monastery? Are you
+            eager to return to your home?
+
+            \n\nAs a result of the structured life of a monastic
+            community and the discipline required to harness ki,
+            monks are almost always lawful in alignment.
+        </item>
+
+
+        <item>
+            The most important aspect of a paladin character is
+        the nature of his or her holy quest. Although the class
+        features related to your oath don`t appear until you
+        reach 3rd level, plan ahead for that choice by reading
+        the oath descriptions at the end of the class. Are you a
+        devoted servant of good, loyal to the gods of justice and
+        honor, a holy knight in shining armor venturing forth
+        to smite evil? Are you a glorious champion of the light,
+        cherishing everything beautiful that stands against the
+        shadow, a knight whose oath descends from traditions
+        older than many of the gods? Or are you an embittered
+        loner sworn to take vengeance on those who have done
+        great evil, sent as an angel of death by the gods or driven
+        by your need for revenge?
+
+        \n\nHow did you experience your call to
+        serve as a paladin? Did you hear a whisper
+        from an unseen god or angel while you were at
+        prayer? Did another paladin sense the potential within
+        you and decide to train you as a squire? Or did some
+        terrible event—the destruction of your home, perhaps—
+        drive you to your quests? Perhaps you stumbled into
+        a sacred grove or a hidden elven enclave and found
+        yourself called to protect all such refuges of goodness
+        and beauty. Or you might have known from your earliest
+        memories that the paladin’s life was your calling, almost
+        as if you had been sent into the world with that purpose
+        stamped on your soul.
+
+        \n\nAs guardians against the forces of wickedness,
+        paladins are rarely of any evil alignment. Most of them
+        walk the paths of charity and justice. Consider how your
+        alignment colors the way you pursue your holy quest
+        and the manner in which you con duct yourself before
+        gods and mortals. Your oath and alignment might be
+        in harmony, or your oath might represent standards of
+        behavior that you have not yet attained.
+        </item>
+
+        <item>
+            As you create your ranger character, consider the nature
+            of the training that gave you your particular capabilities.
+            Did you train with a single mentor, wandering the wilds
+            together until you mastered the ranger’s ways? Did you
+            leave your apprenticeship, or was your mentor slain—
+            perhaps by the same kind of monster that became your
+            favored enemy? Or perhaps you learned your skills as
+            part of a band of rangers affiliated with a druidic circle,
+            trained in mystic paths as well as wilderness lore. You
+            might be self-taught, a recluse who learned combat
+            skills, tracking, and even a magical connection to nature
+            through the necessity of surviving in the wilds.
+
+            \n\nWhat’s the source of your particular hatred of a
+            certain kind of enemy? Did a monster kill someone
+            you loved or destroy your home village? Or did you see
+            too much of the destruction these monsters cause and
+            com mit yourself to reining in their depredations? Is
+            your adventuring career a continuation of your work
+            in protecting the borderlands, or a significant change?
+
+            \n\nWhat made you join up with a band of adventurers?
+            Do you find it challenging to teach new allies the ways
+            of the wild, or do you welcome the relief from solitude
+            that they offer?
+        </item>
+
+        <item>
+            As you create your rogue character, consider the
+            character’s relationship to the law. Do you have a
+            criminal past—or present? Are you on the run from the
+            law or from an angry thieves’ guild master? Or did you
+            leave your guild in search of bigger risks and bigger
+            rewards? Is it greed that drives you in your adventures,
+            or some other desire or ideal?
+
+            \n\nWhat was the trigger that led you away from your
+            previous life? Did a great con or heist gone terribly
+            wrong cause you to reevaluate your career? Maybe
+            you were lucky and a successful robbery gave you the
+            coin you needed to escape the squalor of your life.
+            Did wanderlust finally call you away from your home?
+            Perhaps you suddenly found yourself cut off from your
+            family or your mentor, and you had to find a new means
+            of support. Or maybe you made a new friend—another
+            member of your adventuring party — who showed you
+            new possibilities for earning a living and employing
+            your particular talents.
+        </item>
+
+        <item>
+            The most important question to consider when creating
+            your sorcerer is the origin of your power. As a starting
+            character, you will choose an origin that ties to a draconic
+            bloodline or the influence of wild magic, but the exact
+            source of your power is up to you to decide. Is it a family
+            curse, passed down to you from distant ancestors? Or
+            did some extraordinary event leave you blessed with
+            inherent magic but perhaps scarred as well?
+
+            \n\nHow do you feel about the magical power coursing
+            through you? Do you embrace it, try to master it, or
+            revel in its unpredictable nature? Is it a blessing or
+            a curse? Did you seek it out, or did it find you? Did
+            you have the option to refuse it, and do you wish you
+            had? What do you intend to do with it? Perhaps you
+            feel like you’ve been given this power for some lofty
+            purpose. Or you might decide that the power gives you
+            the right to do what you want, to take what you want
+            from those who lack such power. Perhaps your power
+            links you to a powerful individual in the world — the fey
+            creature that blessed you at birth, the dragon who put
+            a drop of its blood into your veins, the lich who created
+            you as an experiment, or the deity who chose you to
+            carry this power.
+        </item>
+
+        <item>
+            As you make your warlock character, spend some time
+            thinking about your patron and the obligations that
+            your pact imposes upon you. What led you to make the
+            pact, and how did you make contact with your patron?
+            Were you seduced into summoning a devil, or did you
+            seek out the ritual that would allow you to make contact
+            with an alien elder god? Did you search for your patron,
+            or did your patron find and choose you? Do you chafe
+            under the obligations of your pact or serve joyfully in
+            anticipation of the rewards promised to you?
+
+            \n\nWork with your DM to determine how big a part your
+            pact will play in your character’s adventuring career.
+            Your patron’s demands might drive you into adventures,
+            or they might consist entirely of small favors you can do
+            between adventures.
+
+            \n\nWhat kind of relationship do you have with your
+            patron? Is it friendly, antagonistic, uneasy, or romantic?
+            How important does your patron consider you to be?
+            What part do you play in your patron’s plans? Do you
+            know other servants of your patron?
+
+            \n\nHow does your patron communicate with you? If
+            you have a familiar, it might occasionally speak with
+            your patron’s voice. Some warlocks find messages
+            from their patrons etched on trees, mingled among tea
+            leaves, or adrift in the clouds — messages that only the
+            warlock can see. Other warlocks converse with their
+            patrons in dreams or waking visions, or deal only with
+            intermediaries.
+        </item>
+
+        <item>
+            Creating a wizard character demands a backstory
+            dominated by at least one extraordinary event. How
+            did your character first come into contact with magic?
+            How did you discover you had an aptitude for it? Do
+            you have a natural talent, or did you simply study
+            hard and practice incessantly? Did you encounter a
+            magical creature or an ancient tome that taught you the
+            basics of magic?
+
+            \n\nWhat drew you forth from your life of study? Did your
+            first taste of magical knowledge leave you hungry for
+            more? Have you received word of a secret repository
+            of knowledge not yet plundered by any other wizard?
+            Perhaps you’re simply eager to put your new found
+            magical skills to the test in the face of danger.
+        </item>
+
+    </string-array>
+</resources>

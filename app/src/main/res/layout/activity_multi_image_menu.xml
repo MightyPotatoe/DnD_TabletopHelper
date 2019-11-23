@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/imageMenu_layout">
+
+        <ImageView
+            android:id="@+id/imageMenu_ImageView"
+            android:contentDescription="@string/chooseClassImage_ContentDescription"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20sp"
+            android:layout_marginStart="40sp"
+            android:layout_marginEnd="40sp"
+            android:layout_marginBottom="30sp"
+
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:src="@drawable/logo" />
+
+
+</RelativeLayout>

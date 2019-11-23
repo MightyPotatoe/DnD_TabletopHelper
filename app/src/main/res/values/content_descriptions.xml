@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="logoImage_ContentDescription">
+        DnD TableTop Helper Logo
+    </string>
+
+    <string name="createCharacterButton_ContentDescription">
+        Create Character Image
+    </string>
+
+    <string name="chooseClassImage_ContentDescription">
+        Create Character Image
+    </string>
+
+    <string name="infoButton_ContentDescription">
+        Info Button Image
+    </string>
+
+    <string name="chooseButton_ContentDescription">
+        Choose Button Image
+    </string>
+
+</resources>

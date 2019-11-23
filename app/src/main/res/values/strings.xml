@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DnD_TabletopHelper</string>
+
+    <string name="LoremIpsum_Title">
+        Lorem Ipsum
+    </string>
+
+    <string name="LoremIpsum_Long">
+        \tLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget velit aliquet sagittis. Purus sit amet luctus venenatis lectus magna fringilla urna porttitor. Platea dictumst vestibulum rhoncus est pellentesque. Ac felis donec et odio. Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Aliquet nibh praesent tristique magna sit amet purus gravida quis. Neque vitae tempus quam pellentesque nec nam aliquam. Ultrices dui sapien eget mi proin.
+        \n\n
+        \tAt tellus at urna condimentum mattis pellentesque. Mauris a diam maecenas sed enim ut sem viverra aliquet. Aliquet porttitor lacus luctus accumsan. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Pellentesque nec nam aliquam sem et tortor. Sit amet nulla facilisi morbi tempus iaculis urna id. In ante metus dictum at tempor. Orci nulla pellentesque dignissim enim sit amet. Vel risus commodo viverra maecenas accumsan. Dui sapien eget mi proin sed libero enim sed faucibus.
+    </string>
+
+    <string name="LoremIpsum_Short">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mattis vulputate enim nulla aliquet. Cras sed felis eget velit aliquet sagittis id. Nisl nisi scelerisque eu ultrices vitae auctor eu. Id cursus metus aliquam eleifend mi in.
+    </string>
+
+</resources>

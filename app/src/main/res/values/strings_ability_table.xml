@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="levelTable">
+        <item>Level</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+        <item>9th</item>
+        <item>10th</item>
+        <item>11th</item>
+        <item>12th</item>
+        <item>13th</item>
+        <item>14th</item>
+        <item>15th</item>
+        <item>16th</item>
+        <item>17th</item>
+        <item>18th</item>
+        <item>19th</item>
+        <item>20th</item>
+    </string-array>
+
+    <string-array name="profitiencyTable">
+        <item>Proficiency\nBonus</item>
+        <item>+2</item>
+        <item>+2</item>
+        <item>+2</item>
+        <item>+2</item>
+        <item>+3</item>
+        <item>+3</item>
+        <item>+3</item>
+        <item>+3</item>
+        <item>+4</item>
+        <item>+4</item>
+        <item>+4</item>
+        <item>+4</item>
+        <item>+5</item>
+        <item>+5</item>
+        <item>+5</item>
+        <item>+5</item>
+        <item>+6</item>
+        <item>+6</item>
+        <item>+6</item>
+        <item>+6</item>
+    </string-array>
+
+    <string-array name="barbarianFeaturesTable">
+        <item>Features</item>
+        <item>Rage,\nUnarmored Defense</item>
+        <item>Reckless Attack,\nDanger Sense</item>
+        <item>Primal Path</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Extra Attack,\nFast Movement</item>
+        <item>Path Feature</item>
+        <item>Feral Instinct</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Brutal Critical\n(1 die)</item>
+        <item>Path Feature</item>
+        <item>Relentless Rage</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Brutal Critical\n(2 dice)</item>
+        <item>Path Feature</item>
+        <item>Persistent Rage</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Brutal Critical\n(3 dice)</item>
+        <item>Indomitable Might</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Primal Champion</item>
+    </string-array>
+
+    <string-array name="bardFeaturesTable">
+        <item>Features</item>
+        <item>Spellcasting,\nBardic Inspiration (d6)</item>
+        <item>Jack of All Trades,\nSong of Rest (d6)</item>
+        <item>Bard College,\nExpertise</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Bardic Inspiration (d8),\nFont of Inspiration</item>
+        <item>Countercharm,\nBard College Feature</item>
+        <item>-</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Song of Rest (d8)</item>
+        <item>Bardic Inspiration(d10),\nExpertise,\nMagical Secrets</item>
+        <item>-</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Song of Rest (d10)</item>
+        <item> Magical Secrets,\nBard College Feature</item>
+        <item>Bardic Inspiration (d12)</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Song of Rest (d12)</item>
+        <item>Magical Secrets</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Superior Inspiration</item>
+    </string-array>
+
+    <string-array name="clericFeaturesTable">
+        <item>Features</item>
+        <item>Spellcasting,\nDivine Domain</item>
+        <item>Channel Divinity (1/rest),\nDivine Domain Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>Destroy Undead (CR 1/2)</item>
+        <item> Channel Divinity (2/rest),\nDivine Domain Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement,\nDestroy Undead(CR 1),\nDivine Domain Feature</item>
+        <item>-</item>
+        <item>Divine Intervention</item>
+        <item>Destroy Undead (CR 2)</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Destroy Undead (CR 3)</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>Destroy Undead (CR 4),\nDivine Domain Feature</item>
+        <item>Channel Divinity (3/rest)</item>
+        <item>Ability Score Improvement</item>
+        <item> Divine Intervention Improvement</item>
+    </string-array>
+
+
+    <string-array name="druidFeaturesTable">
+        <item>Features</item>
+        <item>Druidic, Spellcasting</item>
+        <item>Wild Shape, Druid Circle</item>
+        <item>-</item>
+        <item>Wild Shape Improvement,\nAbility Score Improvement</item>
+        <item>-</item>
+        <item>Druid Circle Feature</item>
+        <item>-</item>
+        <item> Wild Shape Improvement,\nAbility Score Improvement</item>
+        <item>-</item>
+        <item>Druid Circle Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Druid Circle Improvement</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item> Timeless Body, Beast Spells</item>
+        <item> Ability Score Improvement</item>
+        <item>Archdruid</item>
+    </string-array>
+
+    <string-array name="fighterFeaturesTable">
+        <item>Features</item>
+        <item>Fighting style, Second Wind</item>
+        <item>Action Surge (one use)</item>
+        <item>Martial Archetype</item>
+        <item>Ability Score Improvement</item>
+        <item>Extra Attack</item>
+        <item> Ability Score Improvement</item>
+        <item> Martial Archetype feature</item>
+        <item>Ability Score Improvement</item>
+        <item>Indomitable (one use)</item>
+        <item>Martial Archetype Feature</item>
+        <item>Extra Attack (2)</item>
+        <item>Ability Score Improvement</item>
+        <item>Indomitable (two uses)</item>
+        <item>Ability Score Improvement</item>
+        <item>Martial Archetype Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>Action Surge (two uses),\nIndomitable (three uses)</item>
+        <item>Martial Archetype Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>Extra Attack (3)</item>
+    </string-array>
+
+    <string-array name="monkFeaturesTable">
+        <item>Features</item>
+        <item>Unarmored Defense,\nMartial Arts</item>
+        <item>Ki,\nUnarmored Movement</item>
+        <item>Monastic Tradition,\nDeflect Missiles</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Extra Attack,\nStunning Strike</item>
+        <item>Ki-empowered Strikes,\nMonastic Tradition\nFeature</item>
+        <item>Evasion,\nStillness of Mind</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Unarmored Movement\nImprovement</item>
+        <item>Purity of Body</item>
+        <item>Monastic Tradition\nFeature</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Tongue of the\nSun and Moon</item>
+        <item>Diamond Soul</item>
+        <item>Timeless Body</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Monastic Tradition\nFeature</item>
+        <item>Empty Body</item>
+        <item>Ability Score\nImprovement</item>
+        <item>Perfect Self</item>
+    </string-array>
+
+    <string-array name="paladinFeaturesTable">
+        <item>Features</item>
+        <item>Divine Sense, Lay on Hands</item>
+        <item>Fighting Style, Spellcasting,\nDivine Smite</item>
+        <item>Divine Health, Sacred Oath</item>
+        <item>Ability Score Improvement</item>
+        <item>Extra Attack</item>
+        <item>Aura of Protection</item>
+        <item>Sacred Oath Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Aura of Courage</item>
+        <item>Improved Divine Smite</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Cleansing Touch</item>
+        <item>Sacred Oath Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Aura Improvements</item>
+        <item>Ability Score Improvement</item>
+        <item>Sacred Oath Feature</item>
+    </string-array>
+
+    <string-array name="rangerFeaturesTable">
+        <item>Features</item>
+        <item>Favored Enemy,\nNatural Explorer</item>
+        <item>Fighting Style,\nSpellcasting</item>
+        <item>Ranger Archetype,\nPrimal Awareness</item>
+        <item>Ability Score Improvement</item>
+        <item>Extra Attack</item>
+        <item>Favored Enemy Improvement,\nNatural Explorer Improvement</item>
+        <item>Ranger Archetype Feature</item>
+        <item> Ability Score Improvement,\nHide in Plain Sight</item>
+        <item>-</item>
+        <item>Natural Explorer Improvement</item>
+        <item>Ranger Archetype Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Favored Enemy Improvement,\nVanish</item>
+        <item>Ranger Archetype Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Feral Senses</item>
+        <item>Ability Score Improvement</item>
+        <item>Foe Slayer</item>
+    </string-array>
+
+    <string-array name="rogueFeaturesTable">
+        <item>Features</item>
+        <item>Experise,\nSneak Attack,\Thieves\' Cant</item>
+        <item>Cunning Action</item>
+        <item>Roguish Archetype</item>
+        <item>Ability Score Improvement</item>
+        <item>Uncanny Dodge</item>
+        <item>Expertise</item>
+        <item>Evasion</item>
+        <item>Ability Score Improvement</item>
+        <item>Roguish Archetype Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>Reliable Talent</item>
+        <item>Ability Score Improvement</item>
+        <item>Roguish Archetype Feature</item>
+        <item>Blindsense</item>
+        <item>Slippery Mind</item>
+        <item>Ability Score Improvement</item>
+        <item>Roguish Archetype Feature</item>
+        <item>Elusive</item>
+        <item>Ability Score Improvement</item>
+        <item>Stroke of Luck</item>
+    </string-array>
+
+    <string-array name="sorcererFeaturesTable">
+        <item>Features</item>
+        <item>Spellcasting,\nSorcerous Origin</item>
+        <item>Font of Magic</item>
+        <item>Metamagic</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Sorcerous Origin Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Metamagic</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Sorcerous Origin Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>Metamagic</item>
+        <item>Sorcerous Origin Feature</item>
+        <item>Ability Score Improvement</item>
+        <item>Sorcerous Restoration</item>
+    </string-array>
+
+    <string-array name="warlockFeaturesTable">
+        <item>Features</item>
+        <item>Otherworldly Patron,\nPact Magic</item>
+        <item>Eldricht Invocation</item>
+        <item>Pact Boon</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Otherworldly Patron Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Otherworldly Patron Feature</item>
+        <item>Mystic Arcanum (6th lvl)</item>
+        <item>Ability Score Improvement</item>
+        <item>Mystic Arcanum (7th lvl)</item>
+        <item>Otherworldly Patron Feature</item>
+        <item>Mystic Arcanum (8th lvl)</item>
+        <item>Ability Score Improvement</item>
+        <item>Mystic Arcanum (9th lvl)</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>Eldricht Master</item>
+    </string-array>
+
+    <string-array name="wizardFeaturesTable">
+        <item>Features</item>
+        <item>Spellcasting, Arcane Recovery</item>
+        <item>Arcane Tradition</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Arcane Tradition Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Arcane Tradition Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Arcane Tradition Feature</item>
+        <item>-</item>
+        <item>Ability Score Improvement</item>
+        <item>-</item>
+        <item>Spell Mastery</item>
+        <item>Ability Score Improvement</item>
+        <item>Signature Spell</item>
+    </string-array>
+
+    <string-array name="barbarianRagesTable">
+        <item>Rages</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>Unlimited</item>
+    </string-array>
+
+    <string-array name="bardCantripKnownTable">
+        <item>Cantrips\nKnown</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="clericCantripKnownTable">
+        <item>Cantrips\nKnown</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="druidCantripKnownTable">
+        <item>Cantrips\nKnown</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </string-array>
+
+
+    <string-array name="monkCantripKnownTable">
+        <item>Martial\nArts</item>
+        <item>+2</item>
+        <item>+2</item>
+        <item>+2</item>
+        <item>+2</item>
+        <item>+3</item>
+        <item>+3</item>
+        <item>+3</item>
+        <item>+3</item>
+        <item>+4</item>
+        <item>+4</item>
+        <item>+4</item>
+        <item>+4</item>
+        <item>+5</item>
+        <item>+5</item>
+        <item>+5</item>
+        <item>+5</item>
+        <item>+6</item>
+        <item>+6</item>
+        <item>+6</item>
+        <item>+6</item>
+    </string-array>
+
+
+    <string-array name="rangerCantripKnownTable">
+        <item>Spells\nKnown</item>
+        <item>-</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>6</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+        <item>8</item>
+        <item>8</item>
+        <item>9</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>11</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="rogueCantripKnownTable">
+        <item>Sneak\nAttack</item>
+        <item>1d6</item>
+        <item>1d6</item>
+        <item>2d6</item>
+        <item>2d6</item>
+        <item>3d6</item>
+        <item>3d6</item>
+        <item>4d6</item>
+        <item>4d6</item>
+        <item>5d6</item>
+        <item>5d6</item>
+        <item>6d6</item>
+        <item>6d6</item>
+        <item>7d6</item>
+        <item>7d6</item>
+        <item>8d6</item>
+        <item>8d6</item>
+        <item>9d6</item>
+        <item>9d6</item>
+        <item>10d6</item>
+        <item>10d6</item>
+    </string-array>
+
+    <string-array name="sorcererCantripKnownTable">
+        <item>Cantrips\nKnown</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="warlockCantripKnownTable">
+        <item>Cantrips\nKnown</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="wizzardCantripKnownTable">
+        <item>Cantrips\nKnown</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+
+
+
+    <string-array name="barbarianRageDamageTable">
+    <item>Rage\nDamage</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+2</item>
+    <item>+3</item>
+    <item>+3</item>
+    <item>+3</item>
+    <item>+3</item>
+    <item>+3</item>
+    <item>+3</item>
+    <item>+3</item>
+    <item>+4</item>
+    <item>+4</item>
+    <item>+4</item>
+    <item>+4</item>
+    <item>+4</item>
+    </string-array>
+
+    <string-array name="bardSpellsKnownTable">
+        <item>Spells\nKnown</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>15</item>
+        <item>16</item>
+        <item>18</item>
+        <item>19</item>
+        <item>19</item>
+        <item>20</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+    </string-array>
+
+
+    <string-array name="monkSpellsKnownTable">
+        <item>Ki\nPoints</item>
+        <item>-</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="sorcererSpellsKnownTable">
+        <item>Spells\nKnown</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+        <item>13</item>
+        <item>14</item>
+        <item>14</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="warlockSpellsKnownTable">
+        <item>Spells\nKnown</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>11</item>
+        <item>11</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+        <item>13</item>
+        <item>14</item>
+        <item>14</item>
+        <item>15</item>
+        <item>15</item>
+    </string-array>
+
+
+    <string-array name="emptyColumnString">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+
+
+
+
+</resources>
