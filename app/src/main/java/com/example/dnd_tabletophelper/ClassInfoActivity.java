@@ -19,6 +19,7 @@ public class ClassInfoActivity extends AppCompatActivity {
         TabLayout tabLayout = findViewById(R.id.tabLayout);
         tabLayout.addTab(tabLayout.newTab().setText("Overview"));
         tabLayout.addTab(tabLayout.newTab().setText("Abilities"));
+        tabLayout.addTab(tabLayout.newTab().setText("Abilities Details"));
         tabLayout.setTabMode(tabLayout.MODE_SCROLLABLE);
 
         final ViewPager viewPager = findViewById(R.id.pager);

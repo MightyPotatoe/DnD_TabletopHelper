@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ClassInfoActivity"></activity>
+        <activity android:name=".ClassInfoActivity" />
         <activity android:name=".ChooseClassMenuActivity" />
         <activity android:name=".ChooseClassIntroActivity" />
         <activity android:name=".MainActivity">

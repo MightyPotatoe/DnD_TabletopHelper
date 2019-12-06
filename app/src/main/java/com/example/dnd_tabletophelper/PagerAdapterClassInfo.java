@@ -9,9 +9,9 @@ public class PagerAdapterClassInfo extends FragmentStatePagerAdapter {
     private int numberOftabs;
     private int whichClass;
 
-    public PagerAdapterClassInfo(FragmentManager fm, int numberOftabs, int whichClass) {
+    public PagerAdapterClassInfo(FragmentManager fm, int numberOfTabs, int whichClass) {
         super(fm);
-        this.numberOftabs = numberOftabs;
+        this.numberOftabs = numberOfTabs;
         this.whichClass = whichClass;
     }
 
@@ -22,6 +22,8 @@ public class PagerAdapterClassInfo extends FragmentStatePagerAdapter {
                 return new ClassOverviewFragment(whichClass);
             case 1:
                 return new ClassAbilityTableFragment(whichClass);
+            case 2:
+                return new ClassAbilitiesButtonListFragment(whichClass);
                 default:
                     return null;
         }

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background">
+        
+        <TextView
+            android:id="@+id/buttonList_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:layout_marginTop="10sp"
+            android:layout_centerHorizontal="true"
+            
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:text="@string/LoremIpsum_Title"/>
+
+        <Button
+            android:id="@+id/buttonList_button_1"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_title"
+            android:layout_marginTop="20sp"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_1"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_1"/>
+        <Button
+            android:id="@+id/buttonList_button_2"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_1"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_2"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_2"/>
+
+        <Button
+            android:id="@+id/buttonList_button_3"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_2"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_3"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_3"/>
+
+        <Button
+            android:id="@+id/buttonList_button_4"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_3"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_4"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_4"/>
+
+        <Button
+            android:id="@+id/buttonList_button_5"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_4"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_5"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_5"/>
+
+        <Button
+            android:id="@+id/buttonList_button_6"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_5"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_6"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_6"/>
+
+        <Button
+            android:id="@+id/buttonList_button_7"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_6"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_7"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_7"/>
+
+        <Button
+            android:id="@+id/buttonList_button_8"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_7"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_8"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_8"/>
+
+        <Button
+            android:id="@+id/buttonList_button_9"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_8"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_9"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_9"/>
+
+        <Button
+            android:id="@+id/buttonList_button_10"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_9"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_10"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_10"/>
+        <Button
+            android:id="@+id/buttonList_button_11"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_10"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_11"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_11"/>
+
+        <Button
+            android:id="@+id/buttonList_button_12"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_11"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_12"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_12"/>
+
+        <Button
+            android:id="@+id/buttonList_button_13"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_12"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_13"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_13"/>
+
+        <Button
+            android:id="@+id/buttonList_button_14"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_13"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_14"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_14"/>
+
+        <Button
+            android:id="@+id/buttonList_button_15"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_14"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_15"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_15"/>
+
+        <Button
+            android:id="@+id/buttonList_button_16"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_15"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_16"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_16"/>
+
+        <Button
+            android:id="@+id/buttonList_button_17"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_16"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_17"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_17"/>
+
+        <Button
+            android:id="@+id/buttonList_button_18"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_17"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_18"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_18"/>
+
+        <Button
+            android:id="@+id/buttonList_button_19"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_18"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+
+        <Space
+            android:id="@+id/buttonList_space_19"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_19"/>
+
+        <Button
+            android:id="@+id/buttonList_button_20"
+            android:layout_marginStart="50sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonList_space_19"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/holo_purple"
+
+            android:textSize="20sp"
+            android:text="@string/LoremIpsum_Title" />
+        <Space
+            android:id="@+id/buttonList_space_20"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_below="@id/buttonList_button_20"/>
+    </RelativeLayout>
+</ScrollView>

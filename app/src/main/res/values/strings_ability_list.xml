@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="barbarianAbilityList">
+        <item>Barbarian Abilities</item>
+        <item>Rage</item>
+        <item>Unarmored Defense</item>
+        <item>Reckless Attack</item>
+        <item>Danger Sense</item>
+        <item>Primal Path</item>
+        <item>Ability Score Improvement</item>
+        <item>Extra Attack</item>
+        <item>Fast Movement</item>
+        <item>Feral Instinct</item>
+        <item>Brutal Critical</item>
+        <item>Relentless Rage</item>
+        <item>Persistent Rage</item>
+        <item>Indomitable Might</item>
+        <item>Primal Champion</item>
+    </string-array>
+
+    <string name="barbarianPrimalPathTitle">
+        Primal Paths
+    </string>
+
+    <string name="barbarianPrimalPath">
+        Rage burns in every barbarian’s heart, a furnace
+        that drives him or her toward greatness. Different
+        barbarians attribute their rage to different sources,
+        however. For some, it is an internal reservoir where
+        pain, grief, and anger are forged into a fury hard as
+        steel. Others see it as a spiritual blessing, a gift of
+        a totem animal.
+
+        \n\nAt 3rd level, you choose a path that shapes the nature of
+        your rage. Choose the Path of the Berserker or the Path
+        of the Totem Warrior. Your choice grants you features at 3rd
+        level and again at 6th, 10th, and 14th levels.
+    </string>
+
+    <string-array name="barbarianPathOfBerserker">
+        <item>Path of the Berserker</item>
+        <item>Frenzy</item>
+        <item>Mindless Rage</item>
+        <item>Intimidating Presence</item>
+        <item>Retaliation</item>
+    </string-array>
+
+    <string-array name="barbarianPathOfTotemWarrior">
+        <item>Path of the Totem Warrior</item>
+        <item>Spirit Seeker</item>
+        <item>Totem Spirit</item>
+        <item>Aspect of the Beast</item>
+        <item>Spirit Walker</item>
+        <item>Totemic Attunement</item>
+    </string-array>
+
+
+    <string-array name="a">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
