@@ -3,6 +3,7 @@ package com.example.dnd_tabletophelper;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.text.Html;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -26,7 +27,7 @@ public class AbilityDescriptionActivity extends AppCompatActivity {
 
         tileTextView.setText(title);
         imageView.getLayoutParams().height = 0;
-        textView.setText(string);
+        textView.setText(Html.fromHtml(string));
         button.setVisibility(View.INVISIBLE);
     }
 }

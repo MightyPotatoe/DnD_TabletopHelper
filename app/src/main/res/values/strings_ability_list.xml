@@ -19,94 +19,140 @@
     <string-array name="barbarianAbilityDescription">
         <item>Barbarian Ability Description</item>
         <item>
+            <![CDATA[
             In battle, you fight with primal ferocity. On your turn,
-            you can enter a rage as a bonus action.
+            you can enter a rage as a <b>bonus action</b>.
             While raging, you gain the following benefits if you
             aren’t wearing heavy armor:
-            \n\n• You have advantage on Strength checks and Strength
+            <br>
+            <br>
+            <b>
+            • You have advantage on Strength checks and Strength
             saving throws.
-            \n\n• When you make a melee weapon attack using
+            <br>
+            <br>
+            • When you make a melee weapon attack using
             Strength, you gain a bonus to the damage roll that
             increases as you gain levels as a barbarian, as shown
             in the Rage Damage column of the Barbarian table.
-            \n\n• You have resistance to bludgeoning, piercing, and
+            <br>
+            <br>
+            • You have resistance to bludgeoning, piercing, and
             slashing damage.
-            \n\nIf you are able to cast spells, you can’t cast them or
+            </b>
+            <br>
+            <br>
+            If you are able to cast spells, you can’t cast them or
             concentrate on them while raging.
-            \n\nYour rage lasts for 1 minute. It ends early if you are
+            <br>
+            <br>
+            Your rage <b>lasts for 1 minute</b>. It ends early if you are
             knocked unconscious or if your turn ends and you
             haven’t attacked a hostile creature since your last turn
             or taken damage since then. You can also end your rage
             on your turn as a bonus action.
-            \n\nOnce you have raged the number of times shown
+            <br>
+            <br>
+            Once you have raged the number of times shown
             for your barbarian level in the Rages column of the
             Barbarian table, you must finish a long rest before you
             can rage again.
+
+            ]]>
         </item>
         <item>
+            <![CDATA[
             While you are not wearing any armor, your Armor Class
             equals <b>10 + your Dexterity modifier + your Constitution
             modifier</b>.
-            \n\nYou can use a shield and still gain this benefit.
+            <br>
+            <br>
+            You can use a shield and still gain this benefit.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can throw aside all concern
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can throw aside all concern
             for defense to attack with fierce desperation.
-            \n\nWhen
-            you make your first attack on your turn, you can decide
-            to attack recklessly. Doing so gives you advantage on
+            <br>
+            <br>
+            When you make your first attack on your turn, you can decide
+            to attack recklessly. Doing so gives you <b>advantage on
             melee weapon attack rolls using Strength during this
-            turn, but attack rolls against you have advantage until
+            turn</b>, but attack rolls against you have advantage until
             your next turn.
+            ]]>
         </item>
         <item>
-            At 2nd level, you gain an uncanny sense of when things
+            <![CDATA[
+            At <b>2nd level</b>, you gain an uncanny sense of when things
             nearby aren’t as they should be, giving you an edge
             when you dodge away from danger.
-            \n\nYou have advantage on Dexterity saving throws
-            against effects that you can see, such as traps and spells.
+            <br>
+            <br>
+            You have <b>advantage on Dexterity saving throws
+            against effects that you can see</b>, such as traps and spells.
             To gain this benefit, you can’t be blinded, deafened, or
             incapacitated.
+            ]]>
         </item>
         <item>
-            By 7th level, your instincts are so honed that you have
-            advantage on initiative rolls.
+            <![CDATA[
+            By <b>7th level</b>, your instincts are so honed that you have
+            </b>advantage on initiative rolls.</b>
+            <br>
+            <br>
             Additionally, if you are surprised at the beginning of
             combat and aren’t incapacitated, you can act normally
             on your first turn, but only if you enter your rage before
             doing anything else on that turn.
+            ]]>
         </item>
         <item>
-            Beginning at 9th level, you can roll one additional
+            <![CDATA[
+            Beginning at <b>9th level</b>, you can roll one additional
             weapon damage die when determining the extra
             damage for a critical hit with a melee attack.
-            \n\nThis increases to two additional dice at 13th level
+            <br>
+            <br>
+            This increases to two additional dice at 13th level
             and three additional dice at 17th level.
+            ]]>
         </item>
         <item>
-            Starting at 11th level, your rage can keep you fighting
+            <![CDATA[
+            Starting at <b>11th level</b>, your rage can keep you fighting
             despite grievous wounds. If you drop to 0 hit points
             while you’re raging and don’t die outright, you can make
-            a DC 10 Constitution saving throw. If you succeed , you
-            drop to 1 hit point instead.
-            \n\nEach time you use this feature after the first, the DC
+            a <b>DC 10 Constitution saving throw.</b> If you succeed , you
+            drop to <b>1 hit point</b> instead.
+            <br>
+            <br>
+            Each time you use this feature after the first, the DC
             in creases by 5. When you finish a short or long rest, the
             DC resets to 10.
+            ]]>
         </item>
         <item>
-            Beginning at 15th level, your rage is so fierce that
+            <![CDATA[
+            Beginning at <b>15th level</b>, your rage is so fierce that
             it ends early only if you fall unconscious or if you
             choose to end it.
+            ]]>
         </item>
         <item>
-            Beginning at 18th level, if your total for a Strength
+            <![CDATA[
+            Beginning at <b>18th level</b>, if your total for a Strength
             check is less than your Strength score, you can use that
             score in place of the total.
+            ]]>
         </item>
         <item>
-            At 20th level, you embody the power of the wilds. Your
+            <![CDATA[
+            At <b>20th level</b>, you embody the power of the wilds. Your
             Strength and Constitution scores increase by 4. Your
             maximum for those scores is now 24.
+            ]]>
         </item>
     </string-array>
 
@@ -115,6 +161,7 @@
     </string>
 
     <string name="barbarianPrimalPath">
+        <![CDATA[
         Rage burns in every barbarian’s heart, a furnace
         that drives him or her toward greatness. Different
         barbarians attribute their rage to different sources,
@@ -122,11 +169,13 @@
         pain, grief, and anger are forged into a fury hard as
         steel. Others see it as a spiritual blessing, a gift of
         a totem animal.
-
-        \n\nAt 3rd level, you choose a path that shapes the nature of
+        <br>
+        <br>
+        At <b>3rd level</b>, you choose a path that shapes the nature of
         your rage. Choose the Path of the Berserker or the Path
         of the Totem Warrior. Your choice grants you features at 3rd
-        level and again at 6th, 10th, and 14th levels.
+        level and again at <b>6th, 10th, and 14th levels.</b>
+        ]]>
     </string>
 
     <string-array name="barbarianPathOfBerserker">
@@ -140,42 +189,55 @@
     <string-array name="barbarianPathOfBerserkerDescription">
         <item>Path of the Berserker Abilities Descriptions</item>
         <item>
-            Starting when you choose this path at 3rd level, you
+            <![CDATA[
+            Starting when you choose this path at <b>3rd level</b>, you
             can go into a frenzy when you rage. If you do so, for
             the duration of your rage you can make a single melee
             weapon attack as a bonus action on each of your turns
             after this one. When your rage ends, you suffer one level
             of exhaustion.
+            ]]>
         </item>
         <item>
-            Beginning at 6th level, you can’t be charmed or
+            <![CDATA[
+            Beginning at <b>6th level</b>, you can’t be charmed or
             frightened while raging. If you are charmed or
             frightened when you enter your rage, the effect is
             suspended for the duration of the rage.
+            ]]>
         </item>
         <item>
-            Beginning at 10th level, you can use your action to
+            <![CDATA[
+            Beginning at <b>10th level</b>, you can use your action to
             frighten someone with your menacing presence.
             When you do so, choose one creature that you can see
             within 30 feet of you.
-            \nIf the creature can see or hear
-            you, it must succeed on a Wisdom saving throw (DC
+            <br>
+            If the creature can see or hear
+            you, it must succeed on a Wisdom saving throw <b>(DC
             equal to 8 + your proficiency bonus + your Charisma
-            modifier) or be frightened of you until the end of your
+            modifier)</b> or be frightened of you until the end of your
             next turn.
-            \nOn subsequent turns, you can use your action
+            <br>
+            <br>
+            On subsequent turns, you can use your action
             to extend the duration of this effect on the frightened
             creature until the end of your next turn. This effect ends
             if the creature ends its turn out of line of sight or more
             than 60 feet away from you.
-            \nIf the creature succeeds on its saving throw, you can\'t
+            <br>
+            <br>
+            If the creature succeeds on its saving throw, you can\'t
             use this feature on that creature again for 24 hours.
+            ]]>
         </item>
         <item>
-            Starting at 14th level, when you take damage from
+            <![CDATA[
+            Starting at <b>14th level</b>, when you take damage from
             a creature that is within 5 feet of you. you can use
             your reaction to make a melee weapon attack against
             that creature.
+            ]]>
         </item>
     </string-array>
 
@@ -191,14 +253,17 @@
     <string-array name="barbarianPathOfTotemWarriorDescription">
         <item>Path of the Totem Warrior</item>
         <item>
+            <![CDATA[
             Yours is a path that seeks attunement with the natural
-            world, giving you a kinship with beasts. At 3rd level when
-            you adopt this path, you gain the ability to cast the beast
-            sense and speak with animals spells, but only as rituals,
+            world, giving you a kinship with beasts. At <b>3rd level</b> when
+            you adopt this path, you gain the ability to cast the <b>beast
+            sense</b> and <b>speak with animals</b> spells, but only as rituals,
             as described in chapter 10.
+            ]]>
         </item>
         <item>
-            At 3rd level, w hen you adopt this path, you choose a
+            <![CDATA[
+            At <b>3rd level</b>, when you adopt this path, you choose a
             totem spirit and gain its feature. You must make or
             acquire a physical totem object - an amulet or similar
             adornment — that in corporates fur or feathers, claws,
@@ -208,66 +273,94 @@
             totem spirit, you might be unusually hairy and thick-
             skinned, or if your totem is the eagle, your eyes turn
             bright yellow.
-            \n\nYour totem animal might be an animal related to those
+            <br>
+            <br>
+            Your totem animal might be an animal related to those
             listed here but more appropriate to your homeland.
-            /nFor exam ple, you could choose a hawk or vulture in
+            <br>
+            For exam ple, you could choose a hawk or vulture in
             place of an eagle.
-            \n\n<b>Bear:</b> While raging, you have resistance to all damage
+            <br>
+            <br>
+            <b>Bear:</b> While raging, you have resistance to all damage
             except psychic damage. The spirit of the bear makes you
             tough enough to stand up to any punishment.
-            \n\n<b>Eagle:</b> While you’re raging and aren’t wearing
+            <br>
+            <br>
+            <b>Eagle:</b> While you’re raging and aren’t wearing
             heavy armor, other creatures have disadvantage on
             opportunity attack rolls against you, and you can use the
             Dash action as a bonus action on your turn. The spirit
             of the eagle makes you into a predator who can weave
             through the fray with ease.
-            \n\n<b>Wolf:</b> While you’re raging, your friends have
+            <br>
+            <br>
+            <b>Wolf:</b> While you’re raging, your friends have
             advantage on melee attack rolls against any creature
             within 5 feet of you that is hostile to you. The spirit of
             the wolf makes you a leader of hunters.
+            ]]>
         </item>
         <item>
-            At 6th level, you gain a magical benefit based on the
+            <![CDATA[
+            At <b>6th level</b>, you gain a magical benefit based on the
             totem animal of your choice. You can choose the same
             animal you selected at 3rd level or a different one.
-            \n\n<b>Bear:</b> You gain the might of a bear. Your carrying
+            <br>
+            <br>
+            <b>Bear:</b> You gain the might of a bear. Your carrying
             capacity (including maximum load and maximum lift)
             is doubled, and you have advantage on Strength checks
             made to push, pull, lift, or break objects.
-            \n\n<b>Eagle:</b> You gain the eyesight of an eagle. You can
+            <br>
+            <br>
+            <b>Eagle:</b> You gain the eyesight of an eagle. You can
             see up to 1 mile away with no difficulty, able to discern
             even fine details as though looking at something no
             more than 100 feet away from you. Additionally, dim
             light doesn\'t impose disadvantage on your Wisdom
             (Perception) checks.
-            \n\n<b>Wolf:</b> You gain the hunting sensibilities of a wolf. You
+            <br>
+            <br>
+            <b>Wolf:</b> You gain the hunting sensibilities of a wolf. You
             can track other creatures while traveling at a fast pace,
             and you can move stealthily while traveling at a normal
             pace (see chapter 8 for rules on travel pace).
+            ]]>
         </item>
         <item>
-            At 10th level, you can cast the commune with nature
+            <![CDATA[
+            At <b>10th level</b>, you can cast the commune with nature
             spell, but only as a ritual. When you do so, a spiritual
             version of one of the animals you chose for Totem Spirit
             or Aspect of the Beast appears to you to convey the
             information you seek.
+            ]]>
         </item>
         <item>
-            At 14th level, you gain a magical benefit based on a
+            <![CDATA[
+            At <b>14th level</b>, you gain a magical benefit based on a
             totem animal of your choice. You can choose the same
             animal you selected previously or a different one.
-            \n\n<b>Bear:</b> While you’re raging, any creature within 5 feet
+            <br>
+            <br>
+            <b>Bear:</b> While you’re raging, any creature within 5 feet
             of you that’s hostile to you has disadvantage on attack
             rolls against targets other than you or another character
             with this feature. An enemy is immune to this effect if it
             can’t see or hear you or if it can’t be frightened.
-            \n\n<b>Eagle:</b> While raging, you have a flying speed equal to
+            <br>
+            <br>
+            <b>Eagle:</b> While raging, you have a flying speed equal to
             your current walking speed. This benefit work s only in
             short bursts; you fall if you end your turn in the air and
             nothing else is holding you aloft.
-            \n\n<b>Wolf:</b> While you\'re raging, you can use a bonus action
+            <br>
+            <br>
+            <b>Wolf:</b> While you\'re raging, you can use a bonus action
             on your turn to knock a Large or smaller creature prone
             when you hit it with melee weapon attack.
+            ]]>
         </item>
     </string-array>
 
@@ -287,80 +380,111 @@
     <string-array name="bardAbilityDescriptions">
         <item>Bard Abilities Descriptions</item>
         <item>
+            <![CDATA[
             You can inspire others through stirring words or music.
-            To do so, you use a bonus action on your turn to choose
-            one creature other than yourself within 60 feet of you
-            who can hear you. That creature gains one Bardic
-            Inspiration die, a d6.
-            \n\nOnce within the next 10 minutes, the creature can roll
-            the die and add the number rolled to one ability check,
-            attack roll, or saving throw it makes. The creature can
+            To do so, you use a <b>bonus action</b> on your turn to choose
+            one creature other than yourself <b>within 60 feet of you
+            who can hear you.</b> That creature gains one Bardic
+            Inspiration die, a <b>d6</b>.
+            <br>
+            <br>
+            Once within the next 10 minutes, the creature can roll
+            the die and add the number rolled to one <b>ability check,
+            attack roll, or saving throw</b> it makes. The creature can
             wait until after it rolls the d20 before deciding to use the
             Bardic Inspiration die, but must decide before the DM
             says whether the roll succeeds or fails. Once the Bardic
             Inspiration die is rolled, it is lost. A creature can have
             only on e Bardic Inspiration die at a time.
-            \n\nYou can use this feature a number of times equal
+            <br>
+            <br>
+            You can use this feature a number of times equal
             to your Charisma modifier (a minimum of once). You
             regain any expended uses when you finish a long rest.
-            \n\nYour Bardic Inspiration die changes when you reach
-            certain levels in this class. The die becomes a d8 at 5th
-            level, a d10 at 10th level, and a d12 at 15th.
+            <br>
+            <br>
+            Your Bardic Inspiration die changes when you reach
+            certain levels in this class. <b>The die becomes a d8 at 5th
+            level, a d10 at 10th level, and a d12 at 15th.</b>
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can add half your proficiency
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can add half your proficiency
             bonus, rounded down, to any ability check you make that
             doesn’t already include your proficiency bonus.
+            ]]>
         </item>
         <item>
-            Beginning at 2nd level, you can use soothing music or
+            <![CDATA[
+            Beginning at <b>2nd level</b>, you can use soothing music or
             oration to help revitalize your wounded allies during
             a short rest. If you or any friendly creatures who can
             hear your performance regain hit points at the end of
             the short rest, each of those creatures regains an extra
-            1d6 hit points.
-            \n\nThe extra hit points increase when you reach certain
+            </b>1d6 hit points.</b>
+            <br>
+            <br>
+            <b>The extra hit points increase when you reach certain
             levels in this class: to 1d8 at 9th level, to 1d10 at 13th
-            level, and to 1d12 at 17th level.
+            level, and to 1d12 at 17th level.</b>
+            ]]>
         </item>
         <item>
-            At 3rd level, choose two of your skill proficiencies. Your
+            <![CDATA[
+            At <b>3rd level</b>, choose two of your skill proficiencies. Your
             proficiency bonus is doubled for any ability check you
             make that uses either of the chosen proficiencies.
-            \n\nAt 10th level, you can choose another two skill
+            <br>
+            <br>
+            At 10th level, you can choose another two skill
             proficiencies to gain this benefit.
+            ]]>
         </item>
         <item>
-            Beginning when you reach 5th level, you regain all of
+            <![CDATA[
+            Beginning when you reach <b>5th level</b>, you regain all of
             your expended uses of Bardic Inspiration w hen you
             finish a short or long rest.
+            ]]>
         </item>
         <item>
-             At 6th level, you gain the ability to use musical notes or
+            <![CDATA[
+            At <b>6th level</b>, you gain the ability to use musical notes or
             words of power to disrupt mind-influencing effects. As
-            an action, you can start a performance that lasts until
+            an <b>action</b>, you can start a performance that lasts until
             the end of your next turn. During that time, you and any
-            friendly creatures within 30 feet of you have advantage
-            on saving throws against being frightened or charmed.
+            friendly creatures within 30 feet of you have <b>advantage
+            on saving throws against being frightened or charmed.</b>
+            <br>
             A creature must be able to hear you to gain this benefit.
             The performance ends early if you are incapacitated or
             silenced or if you voluntarily end it (no action required).
+            ]]>
         </item>
         <item>
-            By 10th level, you have plundered magical knowledge
+            <![CDATA[
+            By <b>10th level</b>, you have plundered magical knowledge
             from a wide spectrum of disciplines. Choose two spells
             from any class, including this one. A spell you choose
             must be of a level you can cast, as shown on the Bard
             table, or a cantrip.
-            \n\nThe chosen spells count as bard spells for you and are
+            <br>
+            <br>
+            The chosen spells count as bard spells for you and are
             included in the number in the Spells Known column of
             the Bard table.
-            \n\nYou learn two additional spells from any class at 14th
-            level and again at 18th level.
+            <br>
+            <br>
+            <b>You learn two additional spells from any class at 14th
+            level and again at 18th level.</b>
+            ]]>
         </item>
         <item>
-            At 20th level, when you roll initiative and have no uses
+            <![CDATA[
+            At <b>20th level</b>, when you roll initiative and have no uses
             of Bardic Inspiration left, you regain one use.
+            ]]>
         </item>
     </string-array>
 
@@ -369,16 +493,19 @@
     </string>
 
     <string name="bardCollegeDescription">
+        <![CDATA[
         The way of a bard is gregarious. Bards seek each
         other out to swap songs and stories, boast of their
         accomplishments, and share their knowledge. Bards
         form loose associations, which they call colleges, to
         facilitate their gatherings and preserve their traditions.
-
-        \n\nAt 3rd level, you delve into the advanced techniques of
+        <br>
+        <br>
+        At <b>3rd level</b>, you delve into the advanced techniques of
         a bard college of your choice: the College of Lore or the
-        College of Valor. Your choice grants you features at 3rd level
-        and again at 6th and 14th level.
+        College of Valor. <b>Your choice grants you features at 3rd level
+        and again at 6th and 14th level.</b>
+        ]]>
     </string>
 
     <string-array name="bardCollegeOfLoreAbilityList">
@@ -392,11 +519,14 @@
     <string-array name="bardCollegeOfLoreAbilityDescription">
         <item>College of Lore</item>
         <item>
-            When you join the College of Lore at 3rd level, you gain
+            <![CDATA[
+            When you join the College of Lore at <b>3rd level</b>, you gain
             proficiency with three skills of your choice.
+            ]]>
         </item>
         <item>
-            Also at 3rd level, you learn how to use your wit to
+            <![CDATA[
+            Also at <b>3rd level</b>, you learn how to use your wit to
             distract, confuse, and otherwise sap the confidence and
             competence of others. When a creature that you can
             see within 60 feet of you makes an attack roll, an ability
@@ -409,21 +539,26 @@
             check succeeds or fails, or before the creature deals its
             damage. The creature is immune if it can’t hear you or if
             it’s immune to being charmed.
+            ]]>
         </item>
         <item>
-            At 6th level, you learn two spells of your choice from any
+            <![CDATA[
+            At <b>6th level</b>, you learn two spells of your choice from any
             class. A spell you choose must be of a level you can cast,
             as shown on the Bard table, or a cantrip. The chosen
             spells count as bard spells for you but don’t count
             against the number of bard spells you know.
+            ]]>
         </item>
         <item>
-            Starting at 14th level, when you make an ability check,
+            <![CDATA[
+            Starting at <b>14th level</b>, when you make an ability check,
             you can expend one use of Bardic Inspiration. Roll a
             Bardic Inspiration die and add the number rolled to
             your ability check. You can choose to do so after you roll
             the die for the ability check, but before the DM tells you
             whether you succeed or fail.
+            ]]>
         </item>
     </string-array>
 
@@ -438,30 +573,40 @@
     <string-array name="bardCollegeOfValorAbilitiesDescription">
         <item>College of Valor</item>
         <item>
-            When you join the College of Valor at 3rd level, you
+            <![CDATA[
+            When you join the College of Valor at <b>3rd level</b>, you
             gain proficiency with medium armor, shields, and
             martial weapons.
+            ]]>
         </item>
         <item>
-            Also at 3rd level, you learn to inspire others in battle.
+            <![CDATA[
+            Also at <b>3rd level</b>, you learn to inspire others in battle.
             A creature that has a Bardic Inspiration die from you
             can roll that die and add the number rolled to a weapon
             damage roll it just made.
-            \n\nAlternatively, when an attack
+            <br>
+            <br>
+            Alternatively, when an attack
             roll is made against the creature, it can use its reaction
             to roll the Bardic Inspiration die and add the number
             rolled to its AC against that attack, after seeing the roll
             but before knowing whether it hits or misses.
+            ]]>
         </item>
         <item>
-            Starting at 6th level, you can attack twice, instead of
+            <![CDATA[
+            Starting at <b>6th level</b>, you can attack twice, instead of
             once, whenever you take the Attack action on your turn.
+            ]]>
         </item>
         <item>
-            At 14th level, you have mastered the art of weaving
+            <![CDATA[
+            At <b>14th level</b>, you have mastered the art of weaving
             spellcasting and weapon use into a single harmonious
             act. When you use your action to cast a bard spell, you
             can make one weap on attack as a bonus action.
+            ]]>
         </item>
     </string-array>
 
@@ -477,65 +622,90 @@
     <string-array name="clericAbilitiesDescription">
         <item>Cleric Abilities Description</item>
         <item>
-            At 2nd level, you gain the ability to channel divine
+            <![CDATA[
+            At <b>2nd level</b>, you gain the ability to channel divine
             energy directly from your deity, using that energy to fuel
             magical effects. You start with two such effects: Turn
             Undead and an effect determined by your domain. Some
             domains grant you additional effects as you advance in
             levels, as noted in the domain description.
-            \n\nWhen you use your Channel Divinity, you choose
+            <br>
+            <br>
+            When you use your Channel Divinity, you choose
             which effect to create. You must then finish a short or
             long rest to use your Channel Divinity again.
-            \n\nSome Channel Divinity effects require saving throws.
+            <br>
+            <br>
+            Some Channel Divinity effects require saving throws.
             When you use such an effect from this class, the DC
             equals your cleric spell save DC.
-            \n\nBeginning at 6th level, you can use your Channel
-            Divinity twice between rests, and beginning at 18th level.
+            <br>
+            <br>
+            Beginning at <b>6th level</b>, you can use your Channel
+            Divinity twice between rests, and beginning at <b>18th level.</b>
             you can use it three times between rests. When you finish
             a short or long rest, you regain your expended uses.
+            ]]>
         </item>
         <item>
+            <![CDATA[
             As an action, you present your holy symbol and speak a
             prayer censuring the undead. Each undead that can see
             or hear you within 30 feet of you must make a Wisdom
             saving throw. If the creature fails its saving throw, it is
             turned for 1 minute or until it takes any damage.
-            \n\nA turned creature must spend its turns trying to move
+            <br>
+            <br>
+            A turned creature must spend its turns trying to move
             as far away from you as it can, and it can’t willingly
             move to a space within 30 feet of you. It also can’t take
             reactions. For its action, it can use only the Dash action
             or try to escape from an effect that prevents it from
             moving. If there’s nowhere to move, the creature can use
             the Dodge action.
+            ]]>
         </item>
-        <item>
-            Starting at 5th level, when an undead fails its saving
+        <item><![CDATA[
+            Starting at <b>5th level</b>, when an undead fails its saving
             throw against your Turn Undead feature, the creature is
             instantly destroyed if its challenge rating is at or below a
             certain threshold, as shown in the table below.
-            \n\n
+            <br>
+            <br>
             <b>Destroy Undead of Cr:</b>
-            \n
-            \nLvl 5th:\t\t\t1/2 or lower
-            \nLvl 8th:\t\t\t\t\t\t1 or lower
-            \nLvl 11th:\t\t\t\t2 or lower
-            \nLvl 14th:\t\t\t\t3 or lower
-            \nLvl 17th:\t\t\t\t4 or lower
+            <br>
+            <br>
+            Lvl 5th:\t\t\t1/2 or lower
+            <br>
+            Lvl 8th:\t\t\t\t\t\t1 or lower
+            <br>
+            Lvl 11th:\t\t\t\t2 or lower
+            <br>
+            Lvl 14th:\t\t\t\t3 or lower
+            <br>
+            Lvl 17th:\t\t\t\t4 or lower
+            ]]>
         </item>
         <item>
-            Beginning at 10th level, you can call on your deity to
+            <![CDATA[
+            Beginning at <b>10th level</b>, you can call on your deity to
             intervene on your behalf when your need is great.
-            \n\nImploring your deity’s aid requires you to use your
+            <br>
+            <br>
+            Imploring your deity’s aid requires you to use your
             action. Describe the assistance you seek, and roll
             percentile dice. If you roll a number equal to or lower
             than your cleric level, your deity intervenes. The DM
             chooses the nature of the intervention; the effect of any
             cleric spell or cleric domain spell would be appropriate.
-            \n\nIf your deity intervenes, you can’t use this feature
+            <br>
+            If your deity intervenes, you can’t use this feature
             again for 7 days. Otherwise, you can use it again after
             you finish a long rest.
-            \n\nAt 20th level, your call for intervention succeeds
-            automatically, no roll required.
+            <br>
+            <b>At 20th level, your call for intervention succeeds
+            automatically, no roll required.</b>
+            ]]>
         </item>
     </string-array>
 
@@ -544,7 +714,8 @@
     </string>
 
     <string name="clericDivineDomainsDescription">
-         In a pantheon, every deity has influence over different
+        <![CDATA[
+        In a pantheon, every deity has influence over different
         aspects of mortal life and civilization, called a deity’s
         domain. All the domains over which a deity has
         influence are called the deity’s portfolio. For example,
@@ -552,8 +723,9 @@
         domains of Know ledge, Life, and Light. As a cleric, you
         choose one aspect of your deity’s portfolio to emphasize,
         and you are granted powers related to that domain.
-
-        \n\nYour choice might correspond to a particular sect
+        <br>
+        <br>
+        Your choice might correspond to a particular sect
         dedicated to your deity. Apollo, for example, could be
         worshiped in one region as Phoebus (“radiant”). Apollo,
         emphasizing his influence over the Light domain,
@@ -562,15 +734,17 @@
         Alternatively, your choice of domain could simply be a
         matter of personal preference, the aspect of the deity
         that appeals to you most.
-
-        \n\nEach domain’s description gives examples of deities
+        <br>
+        <br>
+        Each domain’s description gives examples of deities
         who have influence over that domain. Gods are included
         from the worlds of the Forgotten Realms, Greyhawk,
         Dragon lance, and Eberron campaign settings, as well as
         from the Celtic, Greek, Norse, and Egyptian pantheons
         of antiquity.
-
-        \n\nChoose one domain related to your deity: Knowledge,
+        <br>
+        <br>
+        Choose one domain related to your deity: Knowledge,
         Life, Light, Nature, Tempest, Trickery, or War. Each
         domain is detailed at the end of the class description,
         and each one provides examples of gods associated
@@ -579,8 +753,8 @@
         you additional ways to use Channel Divinity when you
         gain that feature at 2nd level, and additional benefits at
         6th, 8th, and 17th levels.
-        \n\n
-
+        <br>
+        <br>
         Each domain has a list of spells—its domain spells—
         that you gain at the cleric levels noted in the domain
         description. Once you gain a domain spell, you always
@@ -588,6 +762,7 @@
         number of spells you can prepare each day.
         If you have a domain spell that doesn’t appear on the
         cleric spell list, the spell is nonetheless a cleric spell for you.
+        ]]>
     </string>
 
     <string-array name="clericKnowledgeDomainAbilitiesList">
@@ -603,60 +778,90 @@
     <string-array name="clericKnowledgeDomainAbilitiesDescription">
         <item>Knowledge Domain</item>
         <item>
-            <b>Lvl: \t\t\t\t\t\t\t\t\tSpell Name:\t\t\t\n </b>
-            \n1st \t\t\t\t\t\t\t\t\t\t command,\t\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tidentify\t\t\t\t\n
-
-            \n3rd \t\t\t\t\t\t\t\t\t\t\t\t\t taugury,\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t\t\t\t\tsuggestion\n
-
-            \n5th \t\t\t\t\t speak with dead,\n
-            \t\t\t\t\t\t\t\t\t\t\tnondetection\n
-
-            \n7th \t\t\t\t\t\t\t\t\t tarcane eye,\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t\tconfusion\n
-
-            \n9th \t\t\t\t\t\t\t\t\t legend lore,\t\t\t\n
+            <![CDATA[
+            <b>Lvl: \t\t\t\t\t\t\t\t\tSpell Name:\t\t\t</b>
+            <br>
+            <br>
+            1st \t\t\t\t\t\t\t\t\t\t command,\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tidentify\t\t\t\t
+            <br>
+            <br>
+            3rd \t\t\t\t\t\t\t\t\t\t\t\t\t taugury,\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\t\t\t\tsuggestion
+            <br>
+            <br>
+            5th \t\t\t\t\t speak with dead,
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\tnondetection
+            <br>
+            <br>
+            7th \t\t\t\t\t\t\t\t\t tarcane eye,\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\tconfusion
+            <br>
+            <br>
+            9th \t\t\t\t\t\t\t\t\t legend lore,\t\t\t
+            <br>
             \t\t\t\t\t\t\t\t\t\t\tscrying
-        </item>1
-        <item>
-            At 1st level, you learn two languages of your choice.
-            You also become proficient in your choice of two of the
-            follow in gskills: Arcana, History, Nature, or Religion.
-            \n\nYour proficiency bonus is doubled for any ability check
-            you make that uses either of those skills.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            At <b>1st level</b>, you learn two languages of your choice.
+            You also become proficient in your choice of two of the
+            follow in skills: <b>Arcana, History, Nature, or Religion.</b>
+            <br>
+            <br>
+            Your proficiency bonus is doubled for any ability check
+            you make that uses either of those skills.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to tap into a divine well of knowledge. As an action,
             you choose one skill or tool. For 10 minutes, you have
             proficiency with the chosen skill or tool.
+            ]]>
         </item>
         <item>
-            At 6th level, you can use your Channel Divinity to read a
+            <![CDATA[
+            At <b>6th level</b>, you can use your Channel Divinity to read a
             creature’s thoughts. You can then use your access to the
             creature’s mind to command it.
-            \n\nAs an action, choose one creature that you can see
+            <br>
+            <br>
+            As an action, choose one creature that you can see
             within 60 feet of you. That creature must make a
             Wisdom saving throw. If the creature succeeds on the
             saving throw, you can’t use this feature on it again until
             you finish a long rest.
-            \n\nIf the creature fails its save, you can read its surface
+            <br>
+            <br>
+            If the creature fails its save, you can read its surface
             thoughts (those foremost in its mind, reflecting its
             current emotions and what it is actively thinking
             about) when it is within 60 feet of you. This effect lasts
             for 1 minute.
-            \n\nDuring that time, you can use your action to end this
+            <br>
+            <br>
+            During that time, you can use your action to end this
             effect and cast the suggestion spell on the creature
             without expending a spell slot. The target automatically
             fails its saving throw against the spell.
+            ]]>
         </item>
         <item>
-            Starting at 8th level, you add your Wisdom modifier to
+            <![CDATA[
+            Starting at <b>8th level</b>, you add your Wisdom modifier to
             the damage you deal with any cleric cantrip.
+            ]]>
         </item>
         <item>
-            Starting at 17th level, you can call up visions of the
+            <![CDATA[
+            Starting at <b>17th level</b>, you can call up visions of the
             past that relate to an object you hold or your immediate
             surroundings. You spend at least 1 minute in meditation
             and prayer, then receive dream like, shadowy glimpses
@@ -664,9 +869,13 @@
             number of minutes equal to your Wisdom score and
             must maintain concentration during that time, as if you
             were casting a spell.
-            \n\nOnce you use this feature, you can’t use it again until
+            <br>
+            <br>
+            Once you use this feature, you can’t use it again until
             you finish a short or long rest.
-            \n\n<b>Object Reading.</b> Holding an object as you meditate,
+            <br>
+            <br>
+            <b>Object Reading.</b> Holding an object as you meditate,
             you can see visions of the object’s previous owner.
             After meditating for 1 minute, you learn how the owner
             acquired and lost the object, as well as the most recent
@@ -676,7 +885,9 @@
             Wisdom score), you can spend 1 additional minute
             for each owner to learn the same information about
             that creature.
-            \n\n<b>Area Reading.</b> As you meditate, you see visions
+            <br>
+            <br>
+            <b>Area Reading.</b> As you meditate, you see visions
             of recent events in your immediate vicinity (a room ,
             street, tunnel, clearing, or the like, up to a 50-foot cube),
             going back a number of days equal to your Wisdom
@@ -687,6 +898,7 @@
             births and funerals. However, they might also include
             more mundane events that are nevertheless important
             in your current situation.
+            ]]>
         </item>
     </string-array>
 
@@ -704,65 +916,90 @@
     <string-array name="clericLifeDomainAbilitiesDescription">
         <item>Life Domain</item>
         <item>
-            <b>Lvl: \t\t\t\t\t\t\t\t\t\t\t\t\tSpells:\t\t\t\t\t\t\t\t\t\t</b>\n
-
-            \n1st \t\t\t\t\t\t\t\t\t\t\t\t\t\t bless,\t\t\t\t\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\tcure wounds\n
-
-            \n3rd \t\t\t\t\t lesser restoration, \n
-            \t\t\t\t\t\t\t\tspiritual weapon\n
-
-            \n5th \t\t\t\t\t\t beacon of hope,\t\t\t\n
-            \t\t\t\t\t\trevivify\n
-
-            \n7th \t\t\t\t\t\t\t\t\t death ward,\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\tguardian of faith\n
-
-            \n9th \t\t\t\t mass cure wounds\n
+            <![CDATA[
+            <b>Lvl: \t\t\t\t\t\t\t\t\t\t\t\t\tSpells:\t\t\t\t\t\t\t\t\t\t</b>
+            <br>
+            <br>
+            1st \t\t\t\t\t\t\t\t\t\t\t\t\t\t bless,\t\t\t\t\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\tcure wounds
+            <br>
+            <br>
+            3rd \t\t\t\t\t lesser restoration,
+            <br>
+            \t\t\t\t\t\t\t\tspiritual weapon
+            <br>
+            <br>
+            5th \t\t\t\t\t\t beacon of hope,\t\t\t
+            <br>
+            \t\t\t\t\t\trevivify
+            <br>
+            <br>
+            7th \t\t\t\t\t\t\t\t\t death ward,\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\tguardian of faith
+            <br>
+            <br>
+            9th \t\t\t\t mass cure wounds
+            <br>
             \t\t\t\t\t\t\t\t\traise dead
-
+            ]]>
         </item>
         <item>
-            When you choose this domain at 1st level, you gain proficiency with heavy armor.
+            <![CDATA[
+            When you choose this domain at <b>1st level</b>, you gain proficiency with heavy armor.
+            ]]>
         </item>
         <item>
-            Also starting at 1st level, your healing spells are more
+            <![CDATA[
+            Also starting at <b>1st level</b>, your healing spells are more
             effective. Whenever you use a spell of 1st level or higher
             to restore hit points to a creature, the creature regains
             additional hit points equal to 2+ the spell’s level.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to heal the badly injured.
-            \n\nAs an action, you present your holy symbol and
+            <br>
+            <br>
+            As an action, you present your holy symbol and
             evoke healing energy that can restore a number of hit
             points equal to five times your cleric level. Choose any
             creatures within 30 feet of you, and divide those hit
             points among them. This feature can restore a creature
             to no more than half of its hit point maximum . You can’t
             use this feature on an undead or a construct.
+            ]]>
         </item>
         <item>
-            Beginning at 6th level, the healing spells you cast on
+            <![CDATA[
+            Beginning at <b>6th level</b>, the healing spells you cast on
             others heal you as well. When you cast a spell of 1st
             level or higher that restores hit points to a creature
             other than you, you regain hit points equal to 2+ the
             spell’s level.
+            ]]>
         </item>
         <item>
-            At 8th level, you gain the ability to infuse your weapon
+            <![CDATA[
+            At <b>8th level</b>, you gain the ability to infuse your weapon
             strikes with divine energy. Once on each of your turns
             when you hit a creature with a weapon attack, you can
             cause the attack to deal an extra 1d8 radiant damage to
-            the target. When you reach 14th level, the extra damage
-            in creases to 2d8.
+            the target. <b>When you reach 14th level, the extra damage
+            in creases to 2d8.</b>
+            ]]>
         </item>
         <item>
-            Starting at 17th level, when you would normally roll
+            <![CDATA[
+            Starting at <b>17th level</b>, when you would normally roll
             one or more dice to restore hit points with a spell, you
             instead use the highest number possible for each die.
             For example, instead of restoring 2d6 hit points to a
             creature, you restore 12.
+            ]]>
         </item>
     </string-array>
 
@@ -781,44 +1018,66 @@
     <string-array name="clericLightDomainAbilityDescription">
         <item>Light Domain</item>
         <item>
-           \t\tLvl: \t\t\t\t\t\t\t\t\t\t\t\t\t\t Spells:\t\t\t\t\t\t\t\t\n
-            \n1st \t\t\t\t\t\t\t\t burning hands,\n
-            \t\t\t\t\t\t\t\t\t\t\t\t faerie fire\n
-
-            \n3rd \t\t\t\t\t\t\t\t flaming sphere,\n
-            \t\t\t\t\t\t\t\t\t\t\t\t scorching ray\n
-
-            \n5th \t\t\t\t\t\t\t\t\t\t\t\t daylight,\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t fireball\n
-
-            \n\t7th \t\t\t\t\t\t guardian of faith,\n
-            \t\t\t\t\t\t\t\t\t\t wall of fire\n
-
-            \n9th \t\t\t\t\t\t\t\t flame strike,\t\t\t\t\n
-            \t\t\t\t\t\t\t\t scrying\n
+            <![CDATA[
+            <b>\t\tLvl: \t\t\t\t\t\t\t\t\t\t\t\t\t\t Spells:\t\t\t\t\t\t\t\t</b>
+            <br>
+            <br>
+            1st \t\t\t\t\t\t\t\t burning hands,
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\t\t faerie fire
+            <br>
+            <br>
+            3rd \t\t\t\t\t\t\t\t flaming sphere,
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\t\t scorching ray
+            <br>
+            <br>
+            5th \t\t\t\t\t\t\t\t\t\t\t\t daylight,\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t fireball
+            <br>
+            <br>
+            \t7th \t\t\t\t\t\t guardian of faith,
+            <br>
+            \t\t\t\t\t\t\t\t\t\t wall of fire
+            <br>
+            <br>
+            9th \t\t\t\t\t\t\t\t flame strike,\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t scrying
+            ]]>
         </item>
 
         <item>
-            When you choose this domain at 1st level, you gain the
+            <![CDATA[
+            When you choose this domain at <b>1st level</b>, you gain the
             light cantrip if you don’t already know it.
+            ]]>
         </item>
         <item>
-            Also at 1st level, you can interpose divine light between
+            <![CDATA[
+            Also at <b>1st level</b>, you can interpose divine light between
             yourself and an attacking enemy. When you are attacked
             by a creature within 30 feet of you that you can see,
             you can use your reaction to impose disadvantage on
             the attack roll, causing light to flare before the attacker
             before it hits or misses. An attacker that can’t be blinded
             is immune to this feature.
-            \n\nYou can use this feature a number of times equal to
+            <br>
+            <br>
+            You can use this feature a number of times equal to
             your Wisdom modifier (a minim um of once). You regain
             all expended uses when you finish a long rest.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to harness sunlight, banishing darkness and dealing
             radiant damage to your foes.
-            \n\nAs an action, you present your holy symbol, and any
+            <br>
+            <br>
+            As an action, you present your holy symbol, and any
             magical darkness within 30 feet of you is dispelled.
             Additionally, each hostile creature within 30 feet of
             you must make a Constitution saving throw. A creature
@@ -826,23 +1085,30 @@
             on a failed saving throw, and half as much damage on a
             successful one. A creature that has total cover from you
             is not affected.
+            ]]>
         </item>
         <item>
-            Starting at 6th level, you can also use your Warding
+            <![CDATA[
+            Starting at <b>6th level</b>, you can also use your Warding
             Flare feature when a creature that you can see within
             30 feet of you attacks a creature other than you.
+            ]]>
         </item>
         <item>
-            Starting at 8th level, you add your Wisdom modifier to
+            <![CDATA[
+            Starting at <b>8th level</b>, you add your Wisdom modifier to
             the damage you deal with any cleric cantrip.
+            ]]>
         </item>
         <item>
-            Starting at 17th level, you can use your action to activate
+            <![CDATA[
+            Starting at <b>17th level</b>, you can use your action to activate
             an aura of sunlight that lasts for 1 minute or until you
             dismiss it using another action. You emit bright light in
             a 60-foot radius and dim light 30 feet beyond that. Your
             enemies in the bright light have disadvantage on saving
             throws against any spell that deals fire or radiant damage.
+            ]]>
         </item>
     </string-array>
 
@@ -860,60 +1126,85 @@
     <string-array name="clericNatureDomainAbilityDescription">
         <item>Nature Domain</item>
         <item>
-            Lvl: \t\t\t\t\t\t\t\t\t\t\t\t\t Spells:\t\t\t\t\t\t\t\n
-
-            \n1st \t\t\t\t animal friendship,\n
-            \t\t\t\t\t\t\t\t\t speak with animals\n
-
-            \n3rd \t\t\t\t\t\t\t\t\t\t\t barskin,\t\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t spikegrow\n
-
-            \n5th \t\t\t\t\t\t\t\t plant growth,\t\t\t\n
-            \t\t\t\t\t\t\t wind wall\n
-
-            \n\t7th \t\t\t\t\t dominate beast,\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t grasping vine\n
-
-            \n\t9th \t\t\t\t\t\t inspect plague,\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t tree stride\n\n
+            <![CDATA[
+            <b>Lvl: \t\t\t\t\t\t\t\t\t\t\t\t\t Spells:\t\t\t\t\t\t\t</b>
+            <br>
+            <br>
+            1st \t\t\t\t animal friendship,
+            <br>
+            \t\t\t\t\t\t\t\t\t speak with animals
+            <br>
+            <br>
+            3rd \t\t\t\t\t\t\t\t\t\t\t barskin,\t\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t spikegrow
+            <br>
+            <br>
+            5th \t\t\t\t\t\t\t\t plant growth,\t\t\t
+            <br>
+            \t\t\t\t\t\t\t wind wall
+            <br>
+            <br>
+            \t7th \t\t\t\t\t dominate beast,\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t grasping vine
+            <br>
+            <br>
+            \t9th \t\t\t\t\t\t inspect plague,\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t tree stride
         </item>
         <item>
-            At 1st level, you learn one druid cantrip of your choice.
+            <![CDATA[
+            At <b>1st level</b>, you learn one druid cantrip of your choice.
             You also gain proficiency in one of the following skills of
             your choice: Animal Handling, Nature, or Survival.
+            ]]>
         </item>
         <item>
-            Also at  1st level, you gain proficiency with heavy armor.
+            <![CDATA[
+            Also at <b>1st level</b>, you gain proficiency with heavy armor.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to charm animals and plants.
-            \n\nAs an action, you present your holy symbol and invoke
+            <br>
+            <br>
+            As an action, you present your holy symbol and invoke
             the name of your deity. Each beast or plant creature that
             can see you within 30 feet of you must make a Wisdom
             saving throw. If the creature fails its saving throw, it is
             charmed by you for 1 minute or until it takes damage.
             While it is charmed by you, it is friendly to you and other
             creatures you designate.
+            ]]>
         </item>
         <item>
-            Starting at 6th level, w hen you or a creature within 30
+            <![CDATA[
+            Starting at <b>6th level<b>, w hen you or a creature within 30
             feet of you takes acid, cold, fire, lightning, or thunder
             damage, you can use your reaction to grant resistance to
             the creature against that instance of the damage.
+            ]]>
         </item>
         <item>
-            At 8th level, you gain the ability to infuse your weapon strikes with divine energy.
+            <![CDATA[
+            At <b>8th level</b>, you gain the ability to infuse your weapon strikes with divine energy.
             Once on each of your turns when you hit a creature with a weapon attack, you can cause
             the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the
-            target. When you reach  14th level, the extra damage increases to 2d8
+            target. When you reach  14th level, the extra damage increases to 2d8.
+            ]]>
         </item>
         <item>
-            At 17th level, you gain the ability to command animals
+            <![CDATA[
+            At <b>17th level</b>, you gain the ability to command animals
             and plant creatures. While creatures are charmed by
             your Charm Animals and Plants feature, you can take
             a bonus action on your turn to verbally command what
             each of those creatures will do on its next turn.
+            ]]>
         </item>
     </string-array>
     
@@ -931,60 +1222,88 @@
     <string-array name="clericTempestDomainAbilityDescription">
         <item>Tempest Domain</item>
         <item>
-            \nLvl: \t\t\t\t\t\t\t\t\t\t Spells:\t\t\t\t\n
-
-            \n1st \t\t\t\t\t\t\t fog cloud, \t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\t thunderwave\n
-
-            \n3rd \t\t\t\t gust of wind,\t\t\t\t\t\t\n
-            \t\t\t\t\t shatter\n
-
-            \n5th \t\t\t\t\t\t\t call ligtning, \t\t\t\t\t\n
-            sleet storm\n
-
-            \n7th \t\t\t\t\t control water,\t\t\t\t\t\t\n
-            \t\t\t\t\t\tice storm\n
-
-            \n9th \t\t\t\t destructive wave,\n
-            \t\t\t\t\t\t\t\tinsect plague\n
+            <![CDATA[
+            <b>Lvl: \t\t\t\t\t\t\t\t\t\t Spells:\t\t\t\t</b>
+            <br>
+            <br>
+            1st \t\t\t\t\t\t\t fog cloud, \t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t thunderwave
+            <br>
+            <br>
+            3rd \t\t\t\t gust of wind,\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t shatter
+            <br>
+            <br>
+            5th \t\t\t\t\t\t\t call ligtning, \t\t\t\t\t
+            <br>
+            sleet storm
+            <br>
+            <br>
+            7th \t\t\t\t\t control water,\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\tice storm
+            <br>
+            <br>
+            9th \t\t\t\t destructive wave,
+            <br>
+            \t\t\t\t\t\t\t\tinsect plague
+            ]]>
         </item>
         <item>
-            At  1st level, you gain proficiency with martial weapons and heavy armor
+            <![CDATA[
+            At  <b>1st level</b>, you gain proficiency with martial weapons and heavy armor
+            ]]>
         </item>
         <item>
-            Also at 1st level, you can thunderously rebuke attackers.
+            <![CDATA[
+            Also at <b>1st level</b>, you can thunderously rebuke attackers.
             When a creature within 5 feet of you that you can see
             hits you with an attack, you can use your reaction to
             cause the creature to make a Dexterity saving throw.
             The creature takes 2d8 lightning or thunder damage
             (your choice) on a failed saving throw, and half as much
             damage on a successful one.
-            \n\nYou can use this feature a number of times equal to
+            <br>
+            <br>
+            You can use this feature a number of times equal to
             your Wisdom modifier (a minimum of once). You regain
             all expended uses when you finish a long rest.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to wield the power of the storm with unchecked ferocity.
-            \n\nWhen you roll lightning or thunder damage, you can
+            <br>
+            <br>
+            When you roll lightning or thunder damage, you can
             use your Channel Divinity to deal maximum damage,
             instead of rolling.
+            ]]>
         </item>
         <item>
-            At 6th level, when you deal lightning damage to a Large
+            <![CDATA[
+            At <b>6th level</b>, when you deal lightning damage to a Large
             or smaller creature, you can also push it up to 10 feet
             away from you.
+            ]]>
         </item>
         <item>
-            At 8th level, you gain the ability to infuse your weapon strikes with divine energy.
+            <![CDATA[
+            At <b>8th level</b>, you gain the ability to infuse your weapon strikes with divine energy.
             Once on each of your turns when you hit a creature with a weapon attack, you can cause
-            the attack to deal an extra  1d8 thunder damage to the target. When you reach  14th level,
-            the extra damage increases to 2d8
+            the attack to deal an extra  1d8 thunder damage to the target. <b>When you reach  14th level,
+            the extra damage increases to 2d8.</b>
+            ]]>
         </item>
         <item>
-            At 17th level, you have a flying speed equal to
+            <![CDATA[
+            At <b>17th level,</b> you have a flying speed equal to
             your current walking speed whenever you are not
             underground or indoors.
+            ]]>
         </item>
     </string-array>
     
@@ -1001,65 +1320,91 @@
     <string-array name="clericTrickeryDomainAbilityDescription">
         <item>Trickery Domain</item>
         <item>
-            Lvl: \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSpells:\t\t\t\t\t\t\t\t\t\\t\t\t\t\n
-
-            \n1st \t\t\t\t\t\t\t charm person,\t\t\t\n
-            \t\t\t\t\t\t\t\t\tdisguise self\n
-
-            \n3rd \t\t\t\t\t\t\t\t mirror image,\t\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\t\tpass without a trace\n
-
-            \n5th \t\t\t\t\t\t\t\t\t\t\t\t\t\t blink,\t\t\t\t\t\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\tdispel magic\n
-
-            \n7th \t\t\t\t\t\t dimension door,\t\t\n
-            \t\t\t\t\t\t\t\t polymorph\n
-
-            \n9th \t\t\t\t dominate person,\n
+            <![CDATA[
+            <b>Lvl: \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSpells:\t\t\t\t\t\t\t\t\t\\t\t\t\t</b>
+            <br>
+            <br>
+            1st \t\t\t\t\t\t\t charm person,\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\tdisguise self
+            <br>
+            <br>
+            3rd \t\t\t\t\t\t\t\t mirror image,\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\t\tpass without a trace
+            <br>
+            <br>
+            5th \t\t\t\t\t\t\t\t\t\t\t\t\t\t blink,\t\t\t\t\t\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\tdispel magic
+            <br>
+            <br>
+            7th \t\t\t\t\t\t dimension door,\t\t
+            <br>
+            \t\t\t\t\t\t\t\t polymorph
+            <br>
+            <br>
+            9th \t\t\t\t dominate person,
+            <br>
             \t\t\t\t\t\t\t\t\t modify memory
+            ]]>
         </item>
         <item>
-            Starting when you choose this domain at 1st level, you
+            <![CDATA[
+            Starting when you choose this domain at <b>1st level</b>, you
             can use your action to touch a willing creature other
             than yourself to give it advantage on Dexterity (Stealth)
             checks. This blessing lasts for 1 hour or until you use
             this feature again.
+            ]]>
         </item>
         <item>
-             Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to create an illusory duplicate of yourself.
-            \n\nAs an action, you create a perfect illusion of
+            <br>
+            <br>
+            As an action, you create a perfect illusion of
             yourself that lasts for 1 minute, or until you lose your
             concentration (as if you were concentrating on a spell).
             The illusion appears in an unoccupied space that you
             can see within 30 feet of you. As a bonus action on your
             turn, you can move the illusion up to 30 feet to a space
             you can see, but it must remain within 120 feet of you.
-            \n\nFor the duration, you can cast spells as though you
+            <br>
+            <br>
+            For the duration, you can cast spells as though you
             were in the illusion’s space, but you must use your own
             senses. Additionally, when both you and your illusion
             are within 5 feet of a creature that can see the illusion,
             you have advantage on attack rolls against that creature,
             given how distracting the illusion is to the target.
+            ]]>
         </item>
         <item>
-            Starting at 6th level, you can u se your Channel
+            <![CDATA[
+            Starting at <b>6th level</b>, you can u se your Channel
             Divinity to vanish.
             As an action, you become invisible until the end of your
             next turn. You become visible if you attack or cast a spell.
+            ]]>
         </item>
         <item>
-            At 8th level, you gain the ability to infuse your weapon strikes with poison—a
+            <![CDATA[
+            At <b>8th level</b>, you gain the ability to infuse your weapon strikes with poison—a
             gift from your deity. Once on each of your turns when you hit a creature with a
             weapon attack, you can cause the attack to deal an extra  1d8 poison damage to the target.
-            W hen you reach  14th level, the extra damage increases to 2d8.
+            <b>When you reach  14th level, the extra damage increases to 2d8.</b>
+            ]]>
         </item>
         <item>
-            At 17th level, you can create up to four duplicates
+            <![CDATA[
+            At <b>17th level</b>, you can create up to four duplicates
             of yourself, instead of one, w hen you use Invoke
             Duplicity. As a bonus action on your turn, you can
             move any number of them up to 30 feet, to a maximum
             range of 120 feet.
+            ]]>
         </item>
     </string-array>
 
@@ -1077,69 +1422,583 @@
     <string-array name="clericWarDomainAbilityDescription">
         <item>War Domain</item>
         <item>
-            \t\tLvl: \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSpells:\t\t\t\t\t\t\t\t\t\t\t\t\t\n
-
-            \n1st \t\t\t\t\t\t\t\t\t\t\t\t divine favor,\t\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\t\t\tshield of faith\n
-
-            \n3rd \t\t\t\t\t\t\t\t tmagic weapon,\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\tspiritual weapon\n
-
-            \n5th \t\t\t\t\t\t\t\tcrusaders mantle,\t\t\t\t\n
-            \t\t\t\t\t\t\t\tspirit guardian\n
-
-            \n7th \t\t\t\tfreedom of movement,\n
-            \t\t\t\t\t\t\t\tstoneskin\n
-
-            \n9th \t\t\t\t\t\t\t\t\t\t\t flame strike,\t\t\t\t\t\t\t\t\t\n
-            \t\t\t\t\t\t\t\thold monster\n
+            <![CDATA[
+            <b>\t\tLvl: \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSpells:\t\t\t\t\t\t\t\t\t\t\t\t\t</b>
+            <br>
+            <br>
+            \n1st \t\t\t\t\t\t\t\t\t\t\t\t divine favor,\t\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\t\t\tshield of faith
+            <br>
+            <br>
+            \n3rd \t\t\t\t\t\t\t\t tmagic weapon,\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\tspiritual weapon
+            <br>
+            <br>
+            \n5th \t\t\t\t\t\t\t\tcrusaders mantle,\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\tspirit guardian
+            <br>
+            <br>
+            \n7th \t\t\t\tfreedom of movement,
+            <br>
+            \t\t\t\t\t\t\t\tstoneskin<br>
+            <br>
+            <br>
+            \n9th \t\t\t\t\t\t\t\t\t\t\t flame strike,\t\t\t\t\t\t\t\t\t
+            <br>
+            \t\t\t\t\t\t\t\thold monster
+            ]]>
         </item>
         <item>
-            At 1st level, you gain proficiency with martial weapons and heavy armor.
+            <![CDATA[
+            At <b>1st level</b>, you gain proficiency with martial weapons and heavy armor.
+            ]]>
         </item>
         <item>
-             From 1st level, your god delivers bolts of inspiration to
+            <![CDATA[
+            From <b>1st level</b>, your god delivers bolts of inspiration to
             you while you are engaged in battle. When you use the
             Attack action, you can make one weapon attack as a
             bonus action.
             \n\nYou can use this feature a number of times equal to
             your Wisdom modifier (a minimum of once). You regain
             all expended uses when you finish a long rest.
+            ]]>
         </item>
         <item>
-            Starting at 2nd level, you can use your Channel Divinity
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can use your Channel Divinity
             to strike with supernatural accuracy. When you make
             an attack roll, you can use your Channel Divinity to gain
             a +10 bonus to the roll. You make this choice after you
             see the roll, but before the DM says whether the attack
             hits or misses.
+            ]]>
         </item>
         <item>
-            At 6th level, when a creature within 30 feet of you
+            <![CDATA[
+            At <b>6th level</b>, when a creature within 30 feet of you
             makes an attack roll, you can use your reaction to grant
             that creature a +10 bonus to the roll, using your Channel
             Divinity. You make this choice after you see the roll, but
             before the DM says whether the attack hits or misses.
+            ]]>
         </item>
         <item>
-            At 8th level, you gain the ability to infuse your weapon strikes with divine energy.
+            <![CDATA[
+            At <b>8th level</b>, you gain the ability to infuse your weapon strikes with divine energy.
             Once on each of your turns when you hit a creature with a weapon attack, you can cause the
             attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target.
             When you reach 14th level, the extra damage increases to 2d8.
+            ]]>
         </item>
         <item>
-            At 17th level, you gain resistance to bludgeoning, piercing,
+            <![CDATA[
+            At <b>17th level</b>, you gain resistance to bludgeoning, piercing,
             and slashing damage from non magical weapons.
+            ]]>
         </item>
     </string-array>
 
     //------------------------------DRUID---------------------------------------------------------------------------------------------
+
+    <string-array name="druidAbilityList">
+        <item>Druid Abilities</item>
+        <item>Druidic</item>
+        <item>Wild Shape</item>
+        <item>Timeless Body</item>
+        <item>Beast Spells</item>
+        <item>Archdruid</item>
+    </string-array>
+
+    <string-array name="druidAbilityDescription">
+        <item>Druid Abilities</item>
+        <item>
+            <![CDATA[
+            You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages.
+            You and others who know this language automatically spot such a message.
+            Others spot the message\'s presence with a successful DC  15 Wisdom (Perception)
+            check but can\'t decipher it without magic.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before.
+            You can use this feature twice. You regain expended uses when you finish a short or long rest.
+            <br>
+            <br>
+            Your druid level determines the beasts you can transform into,
+            as shown in the Beast Shapes table. At 2nd level, for example,
+            you can transform into any beast that has a challenge rating of 1/4 or lower
+            that doesn\'t have a flying or swimming speed
+            <br>
+            <br>
+            <b>Beast Shapes:</b>
+            <br>
+            <br>
+            <b>Level:</b> 2
+            <br>
+            <b>CR:</b> 1/4
+            <br>
+            <b>Limitations:</b> No flying/swimming speed
+            <br>
+            <b>Example:</b> Wolf
+            <br>
+            <br>
+            <b>Level:</b> 4
+            <br>
+            <b>CR:</b> 1/2
+            <br>
+            <b>Limitations:</b> No flying/swimming speed
+            <br>
+            <b>Example:</b> Crocodile
+            <br>
+            <br>
+            <b>Level:</b> 8
+            <br>
+            <b>CR:</b> 1
+            <br>
+            <b>Limitations:</b> -
+            <br>
+            <b>Example:</b> Giant Eagle
+            <br>
+            <br>
+            You can stay in a beast shape for a number of hours equal
+            to half your druid level (rounded down). You then revert to your
+            normal form unless you expend another use of this feature. You can
+            revert to your normal form earlier by using a bonus action on your
+            turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die
+            <br>
+            <br>
+            <br>
+            <br>
+            <b>While you are transformed, the following rules apply:</b>
+            <br>
+            <br>
+            Your game statistics are replaced by the statistics of the beast,
+            but you retain your alignment, personality, and Intelligence,
+            Wisdom, and Charisma scores. You also retain all of your skill
+            and saving throw proficiencies, in addition to gaining those of the creature.
+            If the creature has the same proficiency as you and the bonus in its stat block
+            is higher than yours, use the creature\'s bonus instead of yours. If the creature
+            has any legendary or lair actions, you can\'t use them
+            <br>
+            <br>
+            When you transform, you assume the beast\'s hit points and Hit Dice.
+            When you revert to your normal form, you return to the number of hit points
+            you had before you transformed. However, if you revert as a result of dropping
+            to 0 hit points, any excess damage carries over to your normal form. For example,
+            if you take  10 damage in animal form and have only 1 hit point left, you revert
+            and take 9 damage. As long as the excess damage doesn\'t
+            reduce your normal form to 0 hit points, you aren\'t knocked unconscious
+            <br>
+            <br>
+            You can\'t cast spells, and your ability to speak or take any action that
+            requires hands is limited to the capabilities of your beast form.
+            Transforming doesn\'t break your concentration on a spell you\'ve already cast,
+            however, or prevent you from taking actions that are part of a spell,
+            such as call lightning, that you\'ve already cast
+            <br>
+            <br>
+            You retain the benefit of any features from your class, race,
+            or other source and can use them if the new form is physically capable of doing so.
+            However, you can\'t use any of your special senses, such as darkvision,
+            unless your new form also has that sense
+            <br>
+            <br>
+            You choose whether your equipment falls to the ground in your space,
+            merges into your new form, or is worn by it. Worn equipment functions as normal,
+            but the DM decides whether it is practical for the new form to wear a piece of equipment,
+            based on the creature\'s shape and size. Your equipment doesn\'t
+            change size or shape to match the new form, and any equipment
+            that the new form can\'t wear must either fall to the ground or merge with it.
+            Equipment that merges with the form has no effect until you leave the form.
+            ]]>
+        </item>
+        <item>
+        <![CDATA[
+            Starting at <b>18th level</b>, the primal magic that you wield
+            causes you to age more slowly. For every 10 years that pass, your body ages only 1 year
+            ]]>
+        </item>
+        <item>
+        <![CDATA[
+            Beginning at <b>18th level</b>, you can cast many of your druid spells
+            in any shape you assume using W ild Shape. You can perform the somatic
+            and verbal components of a druid spell while in a beast shape,
+            but you aren\'t able to provide material components
+            ]]>
+        </item>
+        <item>
+        <![CDATA[
+            At <b>20th level</b>, you can use your Wild Shape an unlimited number of times.
+            <br>
+            <br>
+            Additionally, you can ignore the verbal and somatic components of your druid spells,
+            as well as any material components that lack a cost and aren\'t consumed by a spell.
+            You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+            ]]>
+        </item>
+    </string-array>
+
+    <string name="druidDruidCirclesName">Druid Circles</string>
+
+    <string name="druidDruidCirclesDescription">
+        <![CDATA[
+        Though their organization is invisible to most outsiders,
+        druids are part of a society that spans the land, ignoring
+        political borders. All druids are nominally members of this
+        druidic society, though som e individuals are so isolated that
+        they have never seen any high-ranking members of the society or participated
+        in druidic gatherings. Druids recognize each other as brothers and sisters.
+        Like creatures of the wilderness, however, druids sometimes compete with or even prey on each other.
+        <br>
+        <br>
+        At a local scale, druids are organized into circles that share certain perspectives on nature, balance, and the way of the druid.
+        <br>
+        <br>
+        At 2nd level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, 
+        both detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th,  10th, and  14th level.
+        ]]>
+    </string>
+    
+    <string-array name="druidCircleOfLandAbilitiesList">
+        <item>Circle of Land</item>
+        <item>Bonus Cantrip</item>
+        <item>Natural Recovery</item>
+        <item>Circle Spells</item>
+        <item>Lands Stride</item>
+        <item>Natures Ward</item>
+        <item>Natures Sanctuary</item>
+    </string-array>
+
+    <string-array name="druidCircleOfLandAbilitiesDescription">
+        <item>Circle of Land</item>
+        <item>
+            <![CDATA[
+             When you choose this circle at <b>2nd level</b>, you learn one additional druid cantrip of your choice.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can regain some of your magical energy by
+            sitting in meditation and communing with nature. During a short rest,
+            you choose expended spell slots to recover. The spell slots can have a
+            combined level that is equal to or less than half your druid level (rounded up),
+            and none of the slots can be 6th level or higher. You can\'t use this feature
+            again until you finish a long rest.
+            <br>
+            <br>
+            For example, when you are a 4th-level druid, you can recover up to two levels
+            worth of spell slots. You can recover either a 2nd-level slot or two  1st-level slots.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Your mystical connection to the land infuses you with the
+            ability to cast certain spells. At <b>3rd, 5th, 7th, and 9th
+            level</b> you gain access to circle spells connected to the
+            land where you became a druid. Choose that land—arctic,
+            coast, desert, forest, grassland, mountain, swamp, or
+            Underdark—and consult the associated list of spells.
+            <br>
+            <br>
+            Once you gain access to a circle spell,
+            you always have it prepared, and it doesn\'t
+            count against the number of spells you can prepare each day.
+            If you gain access to a spell that doesn\'t appear on the druid
+            spell list, the spell is nonetheless a druid spell for you
+            <br>
+            <br>
+            <b><u>Arctic</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>hold person, spike growth
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>sleet storm, slow
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>freedom of movement, ice storm
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>commune with nature, cone of cold
+            <br>
+            <br>
+            <br>
+            <b><u>Coast</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>mirror image, misty step
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>water breathing, water walk
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>control water, freedom of movement
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>conjure elemental, scrying
+            <br>
+            <br>
+            <br>
+            <b><u>Desert</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>blur, silence
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>create food and water, protection from energy
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>blight, hallucinatory terrain
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>insect plague, wall of stone
+            <br>
+            <br>
+            <br>
+            <b><u>Forest</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>barskin, spider climb
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>call lightning, plant growth
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>divination, freedom of movement
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>commune with nature, tree stride
+            <br>
+            <br>
+            <br>
+            <b><u>Grassland</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>invisibility, pass without a trace
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>daylight, haste
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>freedom of movement, divination
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>dream, insect plague
+            <br>
+            <br>
+            <br>
+            <b><u>Mountain</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>spider climb, spike growth
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>lightning bolt, meld into stone
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>stone shape, stoneskin
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>passwall, wall of stone
+            <br>
+            <br>
+            <br>
+            <b><u>Swamp</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>darkness, Melfs acid arrow
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>water walk, stinking cloud
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>freedom of movement, locate creature
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>insect plague, scrying
+            <br>
+            <br>
+            <br>
+             <b><u>Underdark</u></b>
+            <br>
+            <b>Level:</b> 3rd
+            <br>
+            <b>Circle Spells: </b>spider climb, web
+            <br>
+            <br>
+            <b>Level:</b> 5th
+            <br>
+            <b>Circle Spells: </b>gaseous form, stinking cloud
+            <br>
+            <br>
+            <b>Level:</b> 7th
+            <br>
+            <b>Circle Spells: </b>greater invisibility, stone shape
+            <br>
+            <br>
+            <b>Level:</b> 9th
+            <br>
+            <b>Circle Spells: </b>cloudkill, insect plague
+            <br>
+            <br>
+            <br>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>6th level</b>, moving through nonmagical
+            difficult terrain costs you no extra movement.
+            You can also pass through nonmagical plants without
+            being slowed by them and without taking damage from them
+            if they have thorns, spines, or a similar hazard.
+            <br>
+            <br>
+            In addition, you have advantage on saving throws
+            against plants that are magically created or manipulated to
+            impede movement, such those created by the entangle spell
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            When you reach  <b>10th level</b>, you can\'t be
+            charmed or frightened by elementals or fey,
+            and you are immune to poison and disease.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            When you reach  <b>14th level</b>, creatures of the natural world sense
+            your connection to nature and become hesitant to attack you.
+            When a beast or plant creature attacks you, that creature must
+            make a Wisdom saving throw against your druid spell save DC.
+            On a failed save, the creature must choose a different target,
+            or the attack automatically misses. On a successful save, the
+            creature is immune to this effect for 24 hours.
+            <br>
+            <br>
+            The creature is aware of this effect before it makes its attack against you.
+            ]]>
+        </item>
+    </string-array>
+
+
+    <string-array name="druidCircleOfMoonAbilityList">
+        <item>Circle of the Moon</item>
+        <item>Combat Wild Shape</item>
+        <item>Circle Forms</item>
+        <item>Primal Strike</item>
+        <item>Elemental Wild Shape</item>
+        <item>Thousand Forms</item>
+    </string-array>
+
+    <string-array name="druidCircleOfMoonAbilityDescription">
+        <item>Circle of the Moon</item>
+        <item>
+            <![CDATA[
+            When you choose this circle at <b>2nd level</b>,
+            you gain the ability to use Wild Shape on your
+            turn as a bonus action, rather than as an action.
+            <br>
+            <br>
+            Additionally, while you are transformed by
+            Wild Shape, you can use a bonus action to
+            expend one spell slot to regain  1d8 hit points per level of the spell slot expended.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            The rites of your circle grant you the ability to transform into more
+            dangerous animal forms. Starting at 2nd level, you can use your Wild
+            Shape to transform into a beast with a challenge rating as high as
+            1 (you ignore the Max. CR column of the Beast Shapes table, but must abide by the
+            other limitations there).
+            <br>
+            <br>
+            Starting at <b>6th level</b>, you can transform into a beast with a challenge rating as
+            high as your druid level divided by 3, rounded down.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>6th level</b>, your attacks in beast form count as magical
+            for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At  <b>10th level</b>, you can expend two uses of Wild Shape
+            at the same time to transform into an air elemental,
+            an earth elemental, a fire elemental, or a water elemental.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            By <b>14th level</b>, you have learned to use magic to alter your physical
+            form in more subtle ways. You can cast the alter self spell at will.
+            ]]>
+        </item>
+    </string-array>
 
 
 
     //-----MAX BUTTONS: 10
     //-----MAX BUTTONS PER SPEC: 7
     //-----MAX SPECS: 7
+
 </resources>
 
 

@@ -3,6 +3,7 @@ package com.example.dnd_tabletophelper;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -79,6 +80,17 @@ public class ClassAbilitiesButtonListFragment extends Fragment {
                 specializationStringsArrayList.add(getResources().getStringArray(R.array.clericWarDomainAbilityList));
                 specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.clericWarDomainAbilityDescription));
                 break;
+            case 3:
+                featuresTableString = getResources().getStringArray(R.array.druidAbilityList);
+                featuresDescriptionString = getResources().getStringArray(R.array.druidAbilityDescription);
+                specializationName = getResources().getString(R.string.druidDruidCirclesName);
+                specializationDescription = getResources().getString(R.string.druidDruidCirclesDescription);
+
+                specializationStringsArrayList.add(getResources().getStringArray(R.array.druidCircleOfLandAbilitiesList));
+                specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.druidCircleOfLandAbilitiesDescription));
+                specializationStringsArrayList.add(getResources().getStringArray(R.array.druidCircleOfMoonAbilityList));
+                specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.druidCircleOfMoonAbilityDescription));
+                break;
         }
 
         TextView titleTextView = view.findViewById(R.id.buttonList_title);
@@ -91,7 +103,7 @@ public class ClassAbilitiesButtonListFragment extends Fragment {
         TextView specializationTextView = view.findViewById(R.id.buttonList_section2_title);
         specializationTextView.setText(specializationName);
         TextView specializationDescriptionTextView = view.findViewById(R.id.buttonList_section2);
-        specializationDescriptionTextView.setText(specializationDescription);
+        specializationDescriptionTextView.setText(Html.fromHtml(specializationDescription));
 
 
         for(int i = 1; i<=7; i++){//for each specialization in UI
@@ -167,6 +179,7 @@ public class ClassAbilitiesButtonListFragment extends Fragment {
     }
 }
 
+//
 // TODO: 18.12.2019   uzupelnic: druid
 // TODO: 18.12.2019   uzupelnic: fighter
 // TODO: 18.12.2019   uzupelnic: monk
