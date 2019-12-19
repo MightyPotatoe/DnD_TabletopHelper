@@ -91,6 +91,19 @@ public class ClassAbilitiesButtonListFragment extends Fragment {
                 specializationStringsArrayList.add(getResources().getStringArray(R.array.druidCircleOfMoonAbilityList));
                 specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.druidCircleOfMoonAbilityDescription));
                 break;
+            case 4:
+                featuresTableString = getResources().getStringArray(R.array.fighterAbilitiesList);
+                featuresDescriptionString = getResources().getStringArray(R.array.fighterAbilitiesDescription);
+                specializationName = getResources().getString(R.string.fighterMartialArchetype);
+                specializationDescription = getResources().getString(R.string.fighterMartialArchetypeDescription);
+
+                specializationStringsArrayList.add(getResources().getStringArray(R.array.fighterChampionAbilities));
+                specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.fighterChampionAbilitiesDescription));
+                specializationStringsArrayList.add(getResources().getStringArray(R.array.fighterBattleMasterAbilities));
+                specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.fighterBattleMasterAbilitiesDescription));
+                specializationStringsArrayList.add(getResources().getStringArray(R.array.fighterEldrichtKnightAbilities));
+                specializationDescriptionsArrayList.add(getResources().getStringArray(R.array.fighterEldrichtKnightAbilitiesDescription));
+                break;
         }
 
         TextView titleTextView = view.findViewById(R.id.buttonList_title);
@@ -180,8 +193,6 @@ public class ClassAbilitiesButtonListFragment extends Fragment {
 }
 
 //
-// TODO: 18.12.2019   uzupelnic: druid
-// TODO: 18.12.2019   uzupelnic: fighter
 // TODO: 18.12.2019   uzupelnic: monk
 // TODO: 18.12.2019   uzupelnic: paladin
 // TODO: 18.12.2019   uzupelnic: ranger

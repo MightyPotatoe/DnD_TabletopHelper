@@ -1993,6 +1993,413 @@
         </item>
     </string-array>
 
+    //------------------------------FIGHTER---------------------------------------------------------------------------------------------
+
+    <string-array name="fighterAbilitiesList">
+        <item>Fighter Abilities</item>
+        <item>Fighting Style</item>
+        <item>Second Wind</item>
+        <item>Action Surge</item>
+        <item>Indomitable</item>
+    </string-array>
+
+    <string-array name="fighterAbilitiesDescription">
+        <item>Fighter Abilities</item>
+        <item>
+            <![CDATA[
+            You adopt a particular style of fighting as your specialty.
+            Choose one of the following options. You can\'t take a
+            Fighting Style option more than once, even if you later get to choose again.
+            <br>
+            <br>
+            <b>ARCHERY</b>
+            <br>
+            You gain a +2 bonus to attack rolls you make with ranged weapons.
+            <br>
+            <br>
+            <b>DEFENSE</b>
+            <br>
+            While you are wearing armor, you gain a +1 bonus to AC
+            <br>
+            <br>
+            <b>DUELING</b>
+            <br>
+            When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+            <br>
+            <br>
+            <b>GREAT WEAPON FIGHTING</b>
+            <br>
+            W hen you roll a  1  or 2 on a damage die for an attack you make with a
+            melee weapon that you are wielding with two hands, you can
+            reroll the die and must use the new roll, even if the new
+            roll is a 1 or a 2. The weapon must have the two-handed
+            or versatile property for you to gain this benefit.
+            <br>
+            <br>
+            <b>PROTECTION</b>
+            <br>
+            W hen a creature you can see attacks a target other than you that
+            is within 5 feet of you, you can use your reaction to impose
+            disadvantage on the attack roll. You must be wielding a shield.
+            <br>
+            <br>
+            <b>TWO-WEAPON FIGHTING</b>
+            <br>
+            When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            You have a limited well of stamina that you can draw on to protect yourself from harm.
+            On your turn, you can use a bonus action to regain hit points equal to  1d10 + your fighter level.
+            <br>
+            <br>
+            Once you use this feature, you must finish a short or long rest before you can use it again.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>2nd level</b>, you can push yourself beyond your normal limits for a moment.
+            On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+            <br>
+            <br>
+            Once you use this feature, you must finish a short or long rest before you can use it again.
+            <b>Starting at  17th level, you can use it twice before a rest, but only once on the same turn.</b>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Beginning at <b>9th level</b>, you can reroll a saving throw that you fail.
+            If you do so, you must use the new roll, and you can\'t use this feature again until you finish a long rest.
+            <br>
+            <br>
+            You can use this feature twice between long rests
+            starting at 13th level and three times between long rests starting at  17th level.
+            ]]>
+        </item>
+    </string-array>
+
+    <string name="fighterMartialArchetype">
+        Martial Archetype
+    </string>
+
+    <string name="fighterMartialArchetypeDescription">
+        <![CDATA[
+        Different fighters choose different approaches to perfecting their fighting prowess. 
+        The martial archetype you choose to emulate reflects your approach.
+        <br>
+        <br>
+        At <b>3rd level</b>, you choose an archetype that you strive to emulate in your combat styles 
+        and techniques. Choose Champion, Battle Master, or Eldritch Knight,  all detailed at the 
+        end of the class description. The archetype you choose grants you features at 3rd level and 
+        again at <b>7th, 10th,  15th, and  18th level.</b>
+        ]]>
+    </string>
+    
+    <string-array name="fighterChampionAbilities">
+        <item>Champion</item>
+        <item>Improved Critical</item>
+        <item>Remarkable Athlete</item>
+        <item>Additional Fighting Style</item>
+        <item>Superior Critical</item>
+        <item>Survivor</item>
+    </string-array>
+
+    <string-array name="fighterChampionAbilitiesDescription">
+        <item>Champion</item>
+        <item>
+            <![CDATA[
+            Beginning when you choose this archetype at <b>3rd level</b>,
+            your weapon attacks score a critical hit on a roll of 19 or 20.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>7th level</b>, you can add half your proficiency bonus (round up)
+            to any Strength, Dexterity, or Constitution check you make that doesn\'t already use
+            your proficiency bonus.
+            <br>
+            <br>
+            In addition, when you make a running long jump, the distance you can cover increases
+            by a number of feet equal to your Strength modifier.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At <b>10th level</b>, you can choose a second option from theFighting Style class feature.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>15th level</b>, your weapon attacks score a critical hit on a roll of 18-20.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At <b>18th level</b>, you attain the pinnacle of resilience in battle.
+            At the start of each of your turns, you regain hit points equal to 5 + your
+            Constitution modifier if you have no more than half of your hit points left. You don\'t
+            gain this benefit if you have 0 hit points.
+            ]]>
+        </item>
+    </string-array>
+
+    <string-array name="fighterBattleMasterAbilities">
+        <item>Battle Master</item>
+        <item>Combat Superiority</item>
+        <item>Student of War</item>
+        <item>Know Your Enemy</item>
+        <item>Improved Combat Superiority</item>
+        <item>Relentless</item>
+    </string-array>
+
+    <string-array name="fighterBattleMasterAbilitiesDescription">
+        <item>Battle Master</item>
+        <item>
+            <![CDATA[
+            W hen you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
+            <br>
+            <br>
+            <b>Maneuvers</b>
+            <br>
+            Maneuvers. You learn three maneuvers of your choice, which are detailed under “Maneuvers”
+            below. Many maneuvers enhance an attack in som e way. You can use only one maneuver per attack.
+            <br>
+            <br>
+            You learn two additional maneuvers of your choice at 7th,  10th, and  15th level.
+            Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
+            <br>
+            <br>
+            <b>Superiority Dice</b>
+            <br>
+            You have four superiority dice, which are d8s.
+            A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+            <br>
+            <br>
+            You gain another superiority die at 7th level and one more at  15th level.
+            <br>
+            <br>
+            <b>Saving Throws</b>
+            <br>
+            Some of your maneuvers require your target to make a saving throw to resist the maneuver\'s effects. The saving throw DC is calculated as follows:
+            <br>
+            <br>
+            <b>Maneuver Save DC =</b> 8 + your profitiency bonus + your Strength or Dexterity mod. (your choice)
+            <br>
+            <br>
+            <br>
+            <br>
+            <b>..::MANEUVERS::.</b>
+            <br>
+            <br>
+            <b>Commanders Strike</b>
+            <br>
+            When you take the Attack action on your turn, you can forgo one
+            of your attacks and use a bonus action to direct one of your companions to strike.
+            When you do so, choose a friendly creature who can see or hear you and expend one superiority die.
+            That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack\'s damage roll.
+            <br>
+            <br>
+            <b>Disarming Attack</b>
+            <br>
+            When you hit a creature with a weapon attack, you can expend one superiority die to attempt
+            to disarm the target, forcing it to drop one item of your choice that it\'s holding. You add the
+            superiority die to the attack\'s damage roll, and the target must make a Strength saving throw.
+            On a failed save, it drops the object you choose. The object lands at its feet.
+            <br>
+            <br>
+            <b>Distracting Strike</b>
+            <br>
+            When you hit a creature with a weapon attack, you can expend one superiority die to
+            distract the creature, giving your allies an opening. You add the superiority die to the
+            attack\'s damage roll. The next attack roll against the target by an attacker other than you
+            has advantage if the attack is made before the start of your next turn.
+            <br>
+            <br>
+            <b>Evasive Footwork</b>
+            <br>
+            When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
+            <br>
+            <br>
+            <b>Feinting Attack</b>
+            <br>
+            You can expend one superiority die and use a bonus action on your turn to feint,
+            choosing one creature within 5 feet of you as your target. You have advantage on
+            your next attack roll against that creature. If that attack hits, add the superiority
+            die to the attack\'s damage roll.
+            <br>
+            <br>
+            <b>Goading Attack</b>
+            <br>When you hit a creature with a weapon attack, you can expend one superiority die to attempt
+            to goad the target into attacking you. You add the superiority die to the attack\'s damage roll,
+            and the target must make a Wisdom  saving throw. On a failed save, the target has disadvantage on
+            all attack rolls against targets other than you until the end of your next turn.
+            <br>
+            <br>
+            <b>Lunging Attack</b>
+            <br>
+            When you make a melee weapon attack on your turn,
+            you can expend one superiority die to increase your reach for that
+            attack by 5 feet. If you hit, you add the superiority die to the attack\'s damage roll.
+            <br>
+            <br>
+            <b>Maneuvering Attack</b>
+            <br>When you hit a creature with a weapon attack, you can expend one superiority die
+            to maneuver one of your comrades into a more advantageous position.
+            You add the superiority die to the attack\'s damage roll, and you choose a friendly
+            creature who can see or hear you. That creature can use its reaction to move up to
+            half its speed without provoking opportunity attacks from the target of your attack.
+            <br>
+            <br>
+            <b>Menacing Attack</b>
+            <br>
+            When you hit a creature with a weapon attack, you can expend one superiority
+            die to attempt to frighten the target. You add the superiority die to the attack\'s
+            damage roll, and the target must make a Wisdom  saving throw. On a failed save, it
+            is frightened of you until the end of your next turn.
+            <br>
+            <br>
+            <b>Parry</b>
+            <br>When another creature damages you with a melee attack, you can use your reaction
+            and expend one superiority die to reduce the damage by the number you roll on your
+            superiority die + your Dexterity modifier.
+            <br>
+            <br>
+            <b>Precision Attack</b>
+            <br>When you make a weapon attack roll against a creature, you can expend one superiority
+            die to add it to the roll. You can use this maneuver before or after making the attack roll,
+            but before any effects of the attack are applied.
+            <br>
+            <br>
+            <b>Pushing Attack</b>
+            <br>
+            W hen you hit a creature with a weapon attack, you can expend one superiority die to attempt
+            to drive the target back. You add the superiority die to the attack\'s damage roll, and if the target
+            is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to
+            15 feet away from you.
+            <br>
+            <br>
+            <b>Rally</b>
+            <br>
+            On your turn, you can use a bonus action and expend one superiority die to bolster the resolve
+            of one of your companions. When you do so, choose a friendly creature who can see or hear you.
+            That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.
+            <br>
+            <br>
+            <b>Riposte</b>
+            <br>
+            When a creature m isses you with a melee attack, you can use your reaction and expend one superiority
+            die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack\'s damage roll.
+            <br>
+            <br>
+            <b>Sweeping Attack</b>
+            <br>
+            W hen you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another
+            creature with the same attack. Choose another creature within 5 feet of the original target and within your reach.
+            If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your
+            superiority die. The damage is of the same type dealt by the original attack.
+            <br>
+            <br>
+            <b>Trip Attack</b>
+            <br>
+            When you hit a creature with a weapon attack, you can expend one superiority die to attempt
+            to knock the target down. You add the superiority die to the attack\'s damage roll, and if the
+            target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At <b>3rd level</b>, you gain proficiency with one type of artisan\'s tools of your choice.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at <b>7th level</b>, if you spend at least  1  minute observing or interacting with another
+            creature outside combat, you can learn certain information about its capabilities compared to your own.
+            The DM tells you if the creature is your equal, superior, or inferior in regard to two of the
+            following characteristics of your choice:
+            <br>
+            -Strength Score
+            <br>
+            -Dexterity Score,
+            <br>
+            -Constitution Score,
+            <br>
+            -Armor Class,
+            <br>
+            -Current hit points,
+            <br>
+            -Total class level (if any),
+            <br>
+            -Fighter class level (if any)
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At <b>10th level</b>, your superiority dice turn into d10s. At18th level, they turn into d12s.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at  <b>15th level</b>, when you roll initiative
+            and have no superiority dice remaining, you regain 1 superiority die.
+            ]]>
+        </item>
+    </string-array>
+    
+    <string-array name="fighterEldrichtKnightAbilities">
+        <item>Eldricht Knight</item>
+        <item>Weapon Bound</item>
+        <item>War Magic</item>
+        <item>Eldritch Strike</item>
+        <item>Arcane Charge</item>
+        <item>Improved War Magic</item>
+    </string-array>
+
+    <string-array name="fighterEldrichtKnightAbilitiesDescription">
+        <item>Eldricht Knight</item>
+        <item>
+            <![CDATA[
+            At <b>3rd level</b>, you learn a ritual that creates a magical bond between
+            yourself and one weapon. You perform the ritual over the course of 1 hour,
+            which can be done during a short rest. The weapon must be within your reach throughout the ritual,
+            at the conclusion of which you touch the weapon and forge the bond.
+            <br>
+            <br>
+            Once you have bonded a weapon to yourself, you can\'t be disarmed of that weapon unless you
+            are incapacitated. If it is on the same plane of existence, you can summon that weapon as a
+            bonus action on your turn, causing it to teleport instantly to your hand.
+            <br>
+            <br>
+            You can have up to two bonded weapons, but can summon only one at a time with your bonus action.
+            If you attempt to bond with a third weapon, you must break the bond with one of the other two.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Beginning at <b>7th level</b>, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At <b>10th level</b>, you learn how to make your weapon strikes undercut a creature\'s resistance
+            to your spells. W hen you hit a creature with a weapon attack, that creature has
+            disadvantage on the next saving throw it makes against a spell you cast before the
+            end of your next turn.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            At  <b>15th level</b>, you gain the ability to teleport up to 30 feet to an unoccupied
+            space you can see when you use your Action Surge. You can teleport before or after the additional action.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            Starting at  <b>18th level</b>, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
+            ]]>
+        </item>
+    </string-array>
 
 
     //-----MAX BUTTONS: 10
